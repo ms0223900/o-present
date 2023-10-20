@@ -1,0 +1,166 @@
+/* mainContent */
+
+.mainContent {
+    display: inline-block;
+    margin-top: 24px;
+}
+
+.mainContent>div>.title {
+    font-size: 1.15rem;
+    font-weight: bold;
+    position: relative;
+    letter-spacing: 3px;
+    margin-bottom: 16px;
+}
+
+.mainContent>div>.title:after {
+    content: '';
+    display: inline-block;
+    background: url(../img/circular.svg);
+    width: calc(100% - 7rem);
+    height: 4px;
+    position: absolute;
+    right: 0;
+    top: 0.5rem;
+}
+
+
+/* commonQA */
+
+.commonQA .item>div {
+    line-height: 1.5;
+    margin-bottom: 20px;
+    margin-left: 36px;
+    position: relative;
+}
+
+.commonQA .question {
+    font-weight: bold;
+}
+
+.commonQA .question::before,
+.commonQA .answer::before {
+    content: '';
+    display: inline-block;
+    background: url(../img/QA_Q.svg);
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: -36px;
+}
+
+.commonQA .answer::before {
+    background: url(../img/QA_A.svg);
+}
+
+.commonQA .content {
+    padding: 10px 0 60px 0;
+}
+
+.commonQA .answer {
+    display: none;
+    margin-bottom: 0px;
+}
+
+
+/* stepFllow */
+
+.stepFllow img,
+.stepFllow .stepInfo {
+    display: inline-block;
+}
+
+.stepFllow .content {
+    padding: 28px 0 60px 0;
+}
+
+.step {
+    padding: 40px 80px;
+    vertical-align: middle;
+    border: 1px solid var(--borderGrayLow);
+    border-radius: 16px;
+    position: relative;
+}
+
+.stepNum {
+    width: 50px;
+}
+
+.stepTitle {
+    font-size: 1.15rem;
+    font-weight: bold;
+    color: var(--greenColor);
+    margin-bottom: 16px;
+}
+
+.stepInfo {
+    width: calc(100% - 240px);
+    margin: 0 40px;
+    vertical-align: middle;
+}
+
+.stepContent {
+    line-height: 1.5;
+}
+
+.step+.step {
+    margin-top: 64px;
+}
+
+.step::after {
+    content: '';
+    display: inline-block;
+    background: url(../img/stepArrow.svg);
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 49%;
+    bottom: -54px;
+}
+
+.step:last-child:after {
+    display: none;
+}
+
+
+/* hover */
+
+.commonQA .answer:hover {
+    cursor: default;
+}
+
+.commonQA .question:hover {
+    color: var(--blueColor);
+}
+
+
+/* 小於1200 */
+
+@media screen and (max-width: 1199px) {
+    .step {
+        padding: 40px 60px;
+    }
+}
+
+
+/* 小於576 */
+
+@media screen and (max-width: 575px) {
+    .mainContent {
+        margin-top: 32px;
+    }
+    .step {
+        padding: 32px 40px 52px 40px;
+        text-align: center;
+    }
+    .stepInfo {
+        width: 100%;
+        margin: 20px 0;
+    }
+    .stepContent {
+        text-align: left;
+    }
+    .stepFllow img {
+        margin-top: 20px;
+    }
+}

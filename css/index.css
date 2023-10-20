@@ -1,0 +1,13 @@
+.main {
+    margin-top: 0;
+}
+
+.newProducts,
+.contact {
+    padding-bottom: 80px;
+}
+
+.hotProducts,
+.arcticle {
+    padding: 40px 0 80px 0;
+}

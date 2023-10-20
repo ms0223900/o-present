@@ -1,0 +1,16 @@
+:root {
+    --textDark: #272727;
+    --mainColor: #F1AB33;
+    --bgGrayLight: #F6F6F6;
+    --redColor: #D34242;
+    --blueColor: #00A8B5;
+    --textGrayLight: #515151;
+    --textGrayLow: #e3e3e3;
+    --bgGrayLow: #F9F9F9;
+    --inputBg: #F2F2F2;
+    --borderGrayLight: #EBEBEB;
+    --productBg: #F6F3EC;
+    --btnLowBg: #F6F3EC;
+    --greenColor: #428368;
+    --borderGrayLow: #C5C5C5;
+}

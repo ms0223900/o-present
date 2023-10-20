@@ -1,0 +1,163 @@
+.mainArticle {
+    display: inline-block;
+    width: calc(100% - 446px);
+    margin-top: 40px;
+}
+
+.recommend {
+    display: inline-block;
+    width: 380px;
+    vertical-align: top;
+    background: var(--bgGrayLow);
+    padding: 40px;
+    margin: 40px 0 100px 60px;
+}
+
+.main {
+    margin-top: 0;
+    margin-bottom: 100px;
+}
+
+.mainArticle .title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    letter-spacing: 1px;
+    line-height: 1.3;
+    margin-bottom: 24px;
+    text-align: justify;
+}
+
+.mainArticle .time {
+    margin-bottom: 4px;
+}
+
+.mainArticle .tag {
+    margin-bottom: 16px;
+    font-weight: bold;
+}
+
+.mainArticle .tag a {
+    color: var(--blueColor);
+}
+
+.mainArticle img {
+    object-fit: cover;
+    height: 500px;
+    width: 100%;
+    border-radius: 12px;
+}
+
+.mainArticle .content {
+    margin-top: 20px;
+    line-height: 1.4;
+    text-align: justify
+}
+
+.recommend .tag,
+.recommend .text {
+    display: none;
+}
+
+.series .content {
+    padding: 0;
+}
+
+.mainArticle .tag a:hover {
+    cursor: pointer;
+    color: var(--mainColor);
+}
+
+.recommend .footer {
+    text-align: right;
+}
+
+.series .item:last-child {
+    margin-bottom: 16px;
+}
+
+.series .item {
+    margin-bottom: 24px;
+}
+
+
+/* 小於1200 */
+
+@media screen and (max-width: 1199px) {
+    .recommend {
+        width: 280px;
+        padding: 32px;
+    }
+    .mainArticle {
+        width: calc(100% - 346px);
+    }
+    .arcticle .item img,
+    .arcticle .item.new img {
+        height: 180px;
+    }
+    .recommend .footer {
+        text-align: center;
+    }
+}
+
+
+/* 小於992 */
+
+@media screen and (max-width: 991px) {
+    .mainArticle {
+        width: 100%;
+    }
+    .recommend {
+        margin: 40px 0 100px 0px;
+        width: 100%;
+    }
+    .series .item {
+        width: 280px;
+        margin-bottom: 0;
+        margin-right: 12px;
+    }
+    .series .content {
+        flex-wrap: nowrap;
+        overflow-x: scroll;
+    }
+    .recommend .footer {
+        margin-top: 16px;
+    }
+    .series .content::-webkit-scrollbar {
+        height: 8px;
+        position: absolute;
+    }
+    .series .content::-webkit-scrollbar-track {
+        background-color: var(--inputBg);
+    }
+    .series .content::-webkit-scrollbar-thumb {
+        background-color: var(--mainColor);
+    }
+    .main {
+        margin-bottom: 0;
+    }
+    .pathTitle>div:last-child {
+        width: calc(100% - 8rem);
+        ;
+    }
+}
+
+
+/* 小於768 */
+
+@media screen and (max-width: 767px) {
+    .mainArticle {
+        margin-top: 20px;
+    }
+}
+
+
+/* 小於575 */
+
+@media screen and (max-width: 575px) {
+    .recommend {
+        padding-top: 8px;
+    }
+    .mainArticle img {
+        height: 35vh;
+    }
+}

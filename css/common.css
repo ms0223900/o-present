@@ -1,0 +1,139 @@
+.wrapContent {
+    padding: 0;
+}
+
+
+/* main  */
+
+.main {
+    width: 100%;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+
+/* styleBtn */
+
+.styleBtn .btn {
+    background: var(--btnLowBg);
+    color: var(--textDark);
+    border-radius: 50px;
+    margin: 0 16px 16px 0;
+    padding: 8px 16px 8px 16px;
+    font-weight: bold;
+}
+
+.styleBtn .btn:last-child {
+    margin-right: 0;
+}
+
+.mainTitle.styleBtn {
+    display: inline-block;
+}
+
+.styleBtn .btn.act {
+    color: white;
+    background: var(--blueColor);
+}
+
+:root {
+    scroll-padding-top: 120px;
+}
+
+.functionIcon {
+    display: none;
+}
+
+.rightTopBox .searchBox .btn {
+    position: absolute;
+    left: 0;
+    top: 4px;
+}
+
+
+/* hover */
+
+.styleBtn .btn:hover {
+    color: white;
+    background: var(--blueColor);
+}
+
+
+/* 小於768px */
+
+@media screen and (max-width: 767px) {
+    .functionIcon {
+        padding: 18px;
+        position: relative;
+        background: white;
+        margin-left: 8px;
+        display: inline-block;
+        color: var(--textGrayLight);
+        line-height: 22px;
+    }
+    .functionIcon:nth-of-type(n+2)::after {
+        content: '';
+        display: inline-block;
+        width: 2px;
+        height: 28px;
+        background: var(--borderGrayLow);
+        position: absolute;
+        top: 16px;
+        left: -8px;
+    }
+    .rightTopBox .formSelect::after {
+        top: 36px;
+    }
+    .mainContent .item {
+        display: inline-block;
+    }
+    .mainContent .item:nth-child(n+5),
+    .rightTopFunction .searchBox,
+    .rightTopFunction .filter {
+        display: none;
+    }
+    .rightTopBox .searchBox,
+    .rightTopBox .filter,
+    .rightTopBox {
+        display: none;
+        width: 100%;
+    }
+    #searchBoxInput,
+    #filterFormSelect {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .searchBox .btn {
+        top: 24px;
+    }
+    .rightTopBox .searchBox .btn {
+        position: absolute;
+        left: 0;
+        top: 22px;
+    }
+}
+
+
+/* 小於576 */
+
+@media screen and (max-width: 575px) {
+    .styleBtn .btn {
+        margin-bottom: 16px;
+        margin-right: 10px;
+    }
+    .pageBanner {
+        padding: 0 20px;
+    }
+}
+
+
+/* 小於415 */
+
+@media screen and (max-width: 414px) {
+    .functionIcon {
+        padding: 8px;
+    }
+    .functionIcon:nth-of-type(n+2)::after {
+        top: 8px;
+    }
+}

@@ -1,0 +1,562 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_597" data-name="Rectangle 597" width="1200" height="220" rx="8" transform="translate(73 680)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_3226" data-name="Group 3226" transform="translate(-73 -680)">
+    <rect id="Rectangle_841" data-name="Rectangle 841" width="1200" height="220" rx="8" transform="translate(73 680)" fill="#ffebed"/>
+    <g id="Group_3220" data-name="Group 3220">
+      <g id="Group_3219" data-name="Group 3219" clip-path="url(#clip-path)">
+        <g id="Group_3204" data-name="Group 3204">
+          <circle id="Ellipse_2239" data-name="Ellipse 2239" cx="91.5" cy="91.5" r="91.5" transform="translate(1146 548)" fill="#eab0be"/>
+          <circle id="Ellipse_2240" data-name="Ellipse 2240" cx="92.5" cy="92.5" r="92.5" transform="translate(73 535)" fill="#dd7fa0"/>
+          <path id="Path_2829" data-name="Path 2829" d="M144.2,809.6A66.627,66.627,0,1,1,31.592,880.854C31.4,880.549,144.006,809.3,144.2,809.6Z" fill="#e092ab"/>
+          <path id="Path_2830" data-name="Path 2830" d="M546.2,847.6a66.627,66.627,0,1,1-112.606,71.249C433.4,918.549,546.006,847.3,546.2,847.6Z" fill="#eab0c5"/>
+          <rect id="Rectangle_842" data-name="Rectangle 842" width="105" height="78" transform="translate(1074.457 605.78) rotate(20.993)" fill="#e17d9d"/>
+          <rect id="Rectangle_843" data-name="Rectangle 843" width="78.888" height="78.888" transform="matrix(0.504, -0.864, 0.864, 0.504, 225.863, 895.255)" fill="#f9a0b4"/>
+          <rect id="Rectangle_844" data-name="Rectangle 844" width="78.888" height="78.888" transform="matrix(0.504, -0.864, 0.864, 0.504, 172.387, 916.624)" fill="#d64763"/>
+          <circle id="Ellipse_2241" data-name="Ellipse 2241" cx="76" cy="76" r="76" transform="translate(916 827)" fill="#d54472"/>
+          <circle id="Ellipse_2242" data-name="Ellipse 2242" cx="76" cy="76" r="76" transform="translate(419 585)" fill="#d54472"/>
+          <g id="Group_3088" data-name="Group 3088">
+            <g id="Group_3087" data-name="Group 3087">
+              <g id="Group_3062" data-name="Group 3062">
+                <circle id="Ellipse_2243" data-name="Ellipse 2243" cx="4.091" cy="4.091" r="4.091" transform="translate(1089 842.273)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3063" data-name="Group 3063">
+                <circle id="Ellipse_2244" data-name="Ellipse 2244" cx="4.091" cy="4.091" r="4.091" transform="translate(1109.455 842.273)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3064" data-name="Group 3064">
+                <circle id="Ellipse_2245" data-name="Ellipse 2245" cx="4.091" cy="4.091" r="4.091" transform="translate(1129.909 842.273)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3065" data-name="Group 3065">
+                <circle id="Ellipse_2246" data-name="Ellipse 2246" cx="4.091" cy="4.091" r="4.091" transform="translate(1150.364 842.273)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3066" data-name="Group 3066">
+                <circle id="Ellipse_2247" data-name="Ellipse 2247" cx="4.091" cy="4.091" r="4.091" transform="translate(1170.818 842.273)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3067" data-name="Group 3067">
+                <circle id="Ellipse_2248" data-name="Ellipse 2248" cx="4.091" cy="4.091" r="4.091" transform="translate(1089 861.091)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3068" data-name="Group 3068">
+                <circle id="Ellipse_2249" data-name="Ellipse 2249" cx="4.091" cy="4.091" r="4.091" transform="translate(1109.455 861.091)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3069" data-name="Group 3069">
+                <circle id="Ellipse_2250" data-name="Ellipse 2250" cx="4.091" cy="4.091" r="4.091" transform="translate(1129.909 861.091)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3070" data-name="Group 3070">
+                <circle id="Ellipse_2251" data-name="Ellipse 2251" cx="4.091" cy="4.091" r="4.091" transform="translate(1150.364 861.091)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3071" data-name="Group 3071">
+                <circle id="Ellipse_2252" data-name="Ellipse 2252" cx="4.091" cy="4.091" r="4.091" transform="translate(1170.818 861.091)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3072" data-name="Group 3072">
+                <circle id="Ellipse_2253" data-name="Ellipse 2253" cx="4.091" cy="4.091" r="4.091" transform="translate(1089 879.909)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3073" data-name="Group 3073">
+                <circle id="Ellipse_2254" data-name="Ellipse 2254" cx="4.091" cy="4.091" r="4.091" transform="translate(1109.455 879.909)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3074" data-name="Group 3074">
+                <circle id="Ellipse_2255" data-name="Ellipse 2255" cx="4.091" cy="4.091" r="4.091" transform="translate(1129.909 879.909)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3075" data-name="Group 3075">
+                <circle id="Ellipse_2256" data-name="Ellipse 2256" cx="4.091" cy="4.091" r="4.091" transform="translate(1150.364 879.909)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3076" data-name="Group 3076">
+                <circle id="Ellipse_2257" data-name="Ellipse 2257" cx="4.091" cy="4.091" r="4.091" transform="translate(1170.818 879.909)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3077" data-name="Group 3077">
+                <circle id="Ellipse_2258" data-name="Ellipse 2258" cx="4.091" cy="4.091" r="4.091" transform="translate(1089 898.727)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3078" data-name="Group 3078">
+                <circle id="Ellipse_2259" data-name="Ellipse 2259" cx="4.091" cy="4.091" r="4.091" transform="translate(1109.455 898.727)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3079" data-name="Group 3079">
+                <circle id="Ellipse_2260" data-name="Ellipse 2260" cx="4.091" cy="4.091" r="4.091" transform="translate(1129.909 898.727)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3080" data-name="Group 3080">
+                <circle id="Ellipse_2261" data-name="Ellipse 2261" cx="4.091" cy="4.091" r="4.091" transform="translate(1150.364 898.727)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3081" data-name="Group 3081">
+                <circle id="Ellipse_2262" data-name="Ellipse 2262" cx="4.091" cy="4.091" r="4.091" transform="translate(1170.818 898.727)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3082" data-name="Group 3082">
+                <circle id="Ellipse_2263" data-name="Ellipse 2263" cx="4.091" cy="4.091" r="4.091" transform="translate(1089 917.545)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3083" data-name="Group 3083">
+                <circle id="Ellipse_2264" data-name="Ellipse 2264" cx="4.091" cy="4.091" r="4.091" transform="translate(1109.455 917.545)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3084" data-name="Group 3084">
+                <circle id="Ellipse_2265" data-name="Ellipse 2265" cx="4.091" cy="4.091" r="4.091" transform="translate(1129.909 917.545)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3085" data-name="Group 3085">
+                <circle id="Ellipse_2266" data-name="Ellipse 2266" cx="4.091" cy="4.091" r="4.091" transform="translate(1150.364 917.545)" fill="#ef9eac"/>
+              </g>
+              <g id="Group_3086" data-name="Group 3086">
+                <circle id="Ellipse_2267" data-name="Ellipse 2267" cx="4.091" cy="4.091" r="4.091" transform="translate(1170.818 917.545)" fill="#ef9eac"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_3115" data-name="Group 3115">
+            <g id="Group_3114" data-name="Group 3114">
+              <g id="Group_3089" data-name="Group 3089">
+                <circle id="Ellipse_2268" data-name="Ellipse 2268" cx="5" cy="5" r="5" transform="translate(1217 739)" fill="#b92654"/>
+              </g>
+              <g id="Group_3090" data-name="Group 3090">
+                <circle id="Ellipse_2269" data-name="Ellipse 2269" cx="5" cy="5" r="5" transform="translate(1242 739)" fill="#b92654"/>
+              </g>
+              <g id="Group_3091" data-name="Group 3091">
+                <circle id="Ellipse_2270" data-name="Ellipse 2270" cx="5" cy="5" r="5" transform="translate(1267 739)" fill="#b92654"/>
+              </g>
+              <g id="Group_3092" data-name="Group 3092">
+                <circle id="Ellipse_2271" data-name="Ellipse 2271" cx="5" cy="5" r="5" transform="translate(1292 739)" fill="#b92654"/>
+              </g>
+              <g id="Group_3093" data-name="Group 3093">
+                <circle id="Ellipse_2272" data-name="Ellipse 2272" cx="5" cy="5" r="5" transform="translate(1317 739)" fill="#b92654"/>
+              </g>
+              <g id="Group_3094" data-name="Group 3094">
+                <circle id="Ellipse_2273" data-name="Ellipse 2273" cx="5" cy="5" r="5" transform="translate(1217 762)" fill="#b92654"/>
+              </g>
+              <g id="Group_3095" data-name="Group 3095">
+                <circle id="Ellipse_2274" data-name="Ellipse 2274" cx="5" cy="5" r="5" transform="translate(1242 762)" fill="#b92654"/>
+              </g>
+              <g id="Group_3096" data-name="Group 3096">
+                <circle id="Ellipse_2275" data-name="Ellipse 2275" cx="5" cy="5" r="5" transform="translate(1267 762)" fill="#b92654"/>
+              </g>
+              <g id="Group_3097" data-name="Group 3097">
+                <circle id="Ellipse_2276" data-name="Ellipse 2276" cx="5" cy="5" r="5" transform="translate(1292 762)" fill="#b92654"/>
+              </g>
+              <g id="Group_3098" data-name="Group 3098">
+                <circle id="Ellipse_2277" data-name="Ellipse 2277" cx="5" cy="5" r="5" transform="translate(1317 762)" fill="#b92654"/>
+              </g>
+              <g id="Group_3099" data-name="Group 3099">
+                <circle id="Ellipse_2278" data-name="Ellipse 2278" cx="5" cy="5" r="5" transform="translate(1217 785)" fill="#b92654"/>
+              </g>
+              <g id="Group_3100" data-name="Group 3100">
+                <circle id="Ellipse_2279" data-name="Ellipse 2279" cx="5" cy="5" r="5" transform="translate(1242 785)" fill="#b92654"/>
+              </g>
+              <g id="Group_3101" data-name="Group 3101">
+                <circle id="Ellipse_2280" data-name="Ellipse 2280" cx="5" cy="5" r="5" transform="translate(1267 785)" fill="#b92654"/>
+              </g>
+              <g id="Group_3102" data-name="Group 3102">
+                <circle id="Ellipse_2281" data-name="Ellipse 2281" cx="5" cy="5" r="5" transform="translate(1292 785)" fill="#b92654"/>
+              </g>
+              <g id="Group_3103" data-name="Group 3103">
+                <circle id="Ellipse_2282" data-name="Ellipse 2282" cx="5" cy="5" r="5" transform="translate(1317 785)" fill="#b92654"/>
+              </g>
+              <g id="Group_3104" data-name="Group 3104">
+                <circle id="Ellipse_2283" data-name="Ellipse 2283" cx="5" cy="5" r="5" transform="translate(1217 808)" fill="#b92654"/>
+              </g>
+              <g id="Group_3105" data-name="Group 3105">
+                <circle id="Ellipse_2284" data-name="Ellipse 2284" cx="5" cy="5" r="5" transform="translate(1242 808)" fill="#b92654"/>
+              </g>
+              <g id="Group_3106" data-name="Group 3106">
+                <circle id="Ellipse_2285" data-name="Ellipse 2285" cx="5" cy="5" r="5" transform="translate(1267 808)" fill="#b92654"/>
+              </g>
+              <g id="Group_3107" data-name="Group 3107">
+                <circle id="Ellipse_2286" data-name="Ellipse 2286" cx="5" cy="5" r="5" transform="translate(1292 808)" fill="#b92654"/>
+              </g>
+              <g id="Group_3108" data-name="Group 3108">
+                <circle id="Ellipse_2287" data-name="Ellipse 2287" cx="5" cy="5" r="5" transform="translate(1317 808)" fill="#b92654"/>
+              </g>
+              <g id="Group_3109" data-name="Group 3109">
+                <circle id="Ellipse_2288" data-name="Ellipse 2288" cx="5" cy="5" r="5" transform="translate(1217 831)" fill="#b92654"/>
+              </g>
+              <g id="Group_3110" data-name="Group 3110">
+                <circle id="Ellipse_2289" data-name="Ellipse 2289" cx="5" cy="5" r="5" transform="translate(1242 831)" fill="#b92654"/>
+              </g>
+              <g id="Group_3111" data-name="Group 3111">
+                <circle id="Ellipse_2290" data-name="Ellipse 2290" cx="5" cy="5" r="5" transform="translate(1267 831)" fill="#b92654"/>
+              </g>
+              <g id="Group_3112" data-name="Group 3112">
+                <circle id="Ellipse_2291" data-name="Ellipse 2291" cx="5" cy="5" r="5" transform="translate(1292 831)" fill="#b92654"/>
+              </g>
+              <g id="Group_3113" data-name="Group 3113">
+                <circle id="Ellipse_2292" data-name="Ellipse 2292" cx="5" cy="5" r="5" transform="translate(1317 831)" fill="#b92654"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_3142" data-name="Group 3142">
+            <g id="Group_3141" data-name="Group 3141">
+              <g id="Group_3116" data-name="Group 3116">
+                <circle id="Ellipse_2293" data-name="Ellipse 2293" cx="3.431" cy="3.431" r="3.431" transform="translate(58.51 671)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3117" data-name="Group 3117">
+                <circle id="Ellipse_2294" data-name="Ellipse 2294" cx="3.431" cy="3.431" r="3.431" transform="translate(75.667 671)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3118" data-name="Group 3118">
+                <circle id="Ellipse_2295" data-name="Ellipse 2295" cx="3.431" cy="3.431" r="3.431" transform="translate(92.824 671)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3119" data-name="Group 3119">
+                <circle id="Ellipse_2296" data-name="Ellipse 2296" cx="3.431" cy="3.431" r="3.431" transform="translate(109.98 671)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3120" data-name="Group 3120">
+                <circle id="Ellipse_2297" data-name="Ellipse 2297" cx="3.431" cy="3.431" r="3.431" transform="translate(127.137 671)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3121" data-name="Group 3121">
+                <circle id="Ellipse_2298" data-name="Ellipse 2298" cx="3.431" cy="3.431" r="3.431" transform="translate(58.51 686.784)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3122" data-name="Group 3122">
+                <circle id="Ellipse_2299" data-name="Ellipse 2299" cx="3.431" cy="3.431" r="3.431" transform="translate(75.667 686.784)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3123" data-name="Group 3123">
+                <circle id="Ellipse_2300" data-name="Ellipse 2300" cx="3.431" cy="3.431" r="3.431" transform="translate(92.824 686.784)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3124" data-name="Group 3124">
+                <circle id="Ellipse_2301" data-name="Ellipse 2301" cx="3.431" cy="3.431" r="3.431" transform="translate(109.98 686.784)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3125" data-name="Group 3125">
+                <circle id="Ellipse_2302" data-name="Ellipse 2302" cx="3.431" cy="3.431" r="3.431" transform="translate(127.137 686.784)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3126" data-name="Group 3126">
+                <circle id="Ellipse_2303" data-name="Ellipse 2303" cx="3.431" cy="3.431" r="3.431" transform="translate(58.51 702.569)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3127" data-name="Group 3127">
+                <circle id="Ellipse_2304" data-name="Ellipse 2304" cx="3.431" cy="3.431" r="3.431" transform="translate(75.667 702.569)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3128" data-name="Group 3128">
+                <circle id="Ellipse_2305" data-name="Ellipse 2305" cx="3.431" cy="3.431" r="3.431" transform="translate(92.824 702.569)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3129" data-name="Group 3129">
+                <circle id="Ellipse_2306" data-name="Ellipse 2306" cx="3.431" cy="3.431" r="3.431" transform="translate(109.98 702.569)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3130" data-name="Group 3130">
+                <circle id="Ellipse_2307" data-name="Ellipse 2307" cx="3.431" cy="3.431" r="3.431" transform="translate(127.137 702.569)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3131" data-name="Group 3131">
+                <circle id="Ellipse_2308" data-name="Ellipse 2308" cx="3.431" cy="3.431" r="3.431" transform="translate(58.51 718.353)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3132" data-name="Group 3132">
+                <circle id="Ellipse_2309" data-name="Ellipse 2309" cx="3.431" cy="3.431" r="3.431" transform="translate(75.667 718.353)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3133" data-name="Group 3133">
+                <circle id="Ellipse_2310" data-name="Ellipse 2310" cx="3.431" cy="3.431" r="3.431" transform="translate(92.824 718.353)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3134" data-name="Group 3134">
+                <circle id="Ellipse_2311" data-name="Ellipse 2311" cx="3.431" cy="3.431" r="3.431" transform="translate(109.98 718.353)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3135" data-name="Group 3135">
+                <circle id="Ellipse_2312" data-name="Ellipse 2312" cx="3.431" cy="3.431" r="3.431" transform="translate(127.137 718.353)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3136" data-name="Group 3136">
+                <circle id="Ellipse_2313" data-name="Ellipse 2313" cx="3.431" cy="3.431" r="3.431" transform="translate(58.51 734.137)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3137" data-name="Group 3137">
+                <circle id="Ellipse_2314" data-name="Ellipse 2314" cx="3.431" cy="3.431" r="3.431" transform="translate(75.667 734.137)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3138" data-name="Group 3138">
+                <circle id="Ellipse_2315" data-name="Ellipse 2315" cx="3.431" cy="3.431" r="3.431" transform="translate(92.824 734.137)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3139" data-name="Group 3139">
+                <circle id="Ellipse_2316" data-name="Ellipse 2316" cx="3.431" cy="3.431" r="3.431" transform="translate(109.98 734.137)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3140" data-name="Group 3140">
+                <circle id="Ellipse_2317" data-name="Ellipse 2317" cx="3.431" cy="3.431" r="3.431" transform="translate(127.137 734.137)" fill="#e4abbd"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_3169" data-name="Group 3169">
+            <g id="Group_3168" data-name="Group 3168">
+              <g id="Group_3143" data-name="Group 3143">
+                <circle id="Ellipse_2318" data-name="Ellipse 2318" cx="3.884" cy="3.884" r="3.884" transform="translate(1015.95 629.068)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3144" data-name="Group 3144">
+                <circle id="Ellipse_2319" data-name="Ellipse 2319" cx="3.884" cy="3.884" r="3.884" transform="translate(1030.003 642.473)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3145" data-name="Group 3145">
+                <circle id="Ellipse_2320" data-name="Ellipse 2320" cx="3.884" cy="3.884" r="3.884" transform="translate(1044.055 655.877)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3146" data-name="Group 3146">
+                <circle id="Ellipse_2321" data-name="Ellipse 2321" cx="3.884" cy="3.884" r="3.884" transform="translate(1058.108 669.282)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3147" data-name="Group 3147">
+                <circle id="Ellipse_2322" data-name="Ellipse 2322" cx="3.884" cy="3.884" r="3.884" transform="translate(1072.16 682.687)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3148" data-name="Group 3148">
+                <circle id="Ellipse_2323" data-name="Ellipse 2323" cx="3.884" cy="3.884" r="3.884" transform="translate(1003.618 641.996)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3149" data-name="Group 3149">
+                <circle id="Ellipse_2324" data-name="Ellipse 2324" cx="3.884" cy="3.884" r="3.884" transform="translate(1017.67 655.401)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3150" data-name="Group 3150">
+                <circle id="Ellipse_2325" data-name="Ellipse 2325" cx="3.884" cy="3.884" r="3.884" transform="translate(1031.723 668.806)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3151" data-name="Group 3151">
+                <circle id="Ellipse_2326" data-name="Ellipse 2326" cx="3.884" cy="3.884" r="3.884" transform="translate(1045.775 682.21)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3152" data-name="Group 3152">
+                <circle id="Ellipse_2327" data-name="Ellipse 2327" cx="3.884" cy="3.884" r="3.884" transform="translate(1059.828 695.615)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3153" data-name="Group 3153">
+                <circle id="Ellipse_2328" data-name="Ellipse 2328" cx="3.884" cy="3.884" r="3.884" transform="translate(991.285 654.924)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3154" data-name="Group 3154">
+                <circle id="Ellipse_2329" data-name="Ellipse 2329" cx="3.884" cy="3.884" r="3.884" transform="translate(1005.338 668.329)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3155" data-name="Group 3155">
+                <circle id="Ellipse_2330" data-name="Ellipse 2330" cx="3.884" cy="3.884" r="3.884" transform="translate(1019.39 681.734)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3156" data-name="Group 3156">
+                <circle id="Ellipse_2331" data-name="Ellipse 2331" cx="3.884" cy="3.884" r="3.884" transform="translate(1033.443 695.139)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3157" data-name="Group 3157">
+                <circle id="Ellipse_2332" data-name="Ellipse 2332" cx="3.884" cy="3.884" r="3.884" transform="translate(1047.495 708.544)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3158" data-name="Group 3158">
+                <circle id="Ellipse_2333" data-name="Ellipse 2333" cx="3.884" cy="3.884" r="3.884" transform="translate(978.953 667.853)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3159" data-name="Group 3159">
+                <circle id="Ellipse_2334" data-name="Ellipse 2334" cx="3.884" cy="3.884" r="3.884" transform="translate(993.005 681.258)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3160" data-name="Group 3160">
+                <circle id="Ellipse_2335" data-name="Ellipse 2335" cx="3.884" cy="3.884" r="3.884" transform="translate(1007.058 694.662)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3161" data-name="Group 3161">
+                <circle id="Ellipse_2336" data-name="Ellipse 2336" cx="3.884" cy="3.884" r="3.884" transform="translate(1021.111 708.067)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3162" data-name="Group 3162">
+                <circle id="Ellipse_2337" data-name="Ellipse 2337" cx="3.884" cy="3.884" r="3.884" transform="translate(1035.163 721.472)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3163" data-name="Group 3163">
+                <circle id="Ellipse_2338" data-name="Ellipse 2338" cx="3.884" cy="3.884" r="3.884" transform="translate(966.62 680.781)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3164" data-name="Group 3164">
+                <circle id="Ellipse_2339" data-name="Ellipse 2339" cx="3.884" cy="3.884" r="3.884" transform="translate(980.673 694.186)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3165" data-name="Group 3165">
+                <circle id="Ellipse_2340" data-name="Ellipse 2340" cx="3.884" cy="3.884" r="3.884" transform="translate(994.726 707.591)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3166" data-name="Group 3166">
+                <circle id="Ellipse_2341" data-name="Ellipse 2341" cx="3.884" cy="3.884" r="3.884" transform="translate(1008.778 720.996)" fill="#e4abbd"/>
+              </g>
+              <g id="Group_3167" data-name="Group 3167">
+                <circle id="Ellipse_2342" data-name="Ellipse 2342" cx="3.884" cy="3.884" r="3.884" transform="translate(1022.831 734.4)" fill="#e4abbd"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_3176" data-name="Group 3176">
+            <g id="Group_3175" data-name="Group 3175">
+              <g id="Group_3170" data-name="Group 3170">
+                <circle id="Ellipse_2343" data-name="Ellipse 2343" cx="5" cy="5" r="5" transform="translate(705.047 850.346)" fill="#e394ad"/>
+              </g>
+              <g id="Group_3171" data-name="Group 3171">
+                <circle id="Ellipse_2344" data-name="Ellipse 2344" cx="5" cy="5" r="5" transform="translate(699.523 872.673)" fill="#e394ad"/>
+              </g>
+              <g id="Group_3172" data-name="Group 3172">
+                <circle id="Ellipse_2345" data-name="Ellipse 2345" cx="5" cy="5" r="5" transform="translate(694 895)" fill="#e394ad"/>
+              </g>
+              <g id="Group_3173" data-name="Group 3173">
+                <circle id="Ellipse_2346" data-name="Ellipse 2346" cx="5" cy="5" r="5" transform="translate(688.477 917.327)" fill="#e394ad"/>
+              </g>
+              <g id="Group_3174" data-name="Group 3174">
+                <circle id="Ellipse_2347" data-name="Ellipse 2347" cx="5" cy="5" r="5" transform="translate(682.953 939.654)" fill="#e394ad"/>
+              </g>
+            </g>
+          </g>
+          <g id="Group_3203" data-name="Group 3203">
+            <g id="Group_3202" data-name="Group 3202">
+              <g id="Group_3177" data-name="Group 3177">
+                <circle id="Ellipse_2348" data-name="Ellipse 2348" cx="3.471" cy="3.471" r="3.471" transform="translate(328.288 661.084)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3178" data-name="Group 3178">
+                <circle id="Ellipse_2349" data-name="Ellipse 2349" cx="3.471" cy="3.471" r="3.471" transform="translate(344.671 666.816)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3179" data-name="Group 3179">
+                <circle id="Ellipse_2350" data-name="Ellipse 2350" cx="3.471" cy="3.471" r="3.471" transform="translate(361.055 672.548)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3180" data-name="Group 3180">
+                <circle id="Ellipse_2351" data-name="Ellipse 2351" cx="3.471" cy="3.471" r="3.471" transform="translate(377.438 678.28)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3181" data-name="Group 3181">
+                <circle id="Ellipse_2352" data-name="Ellipse 2352" cx="3.471" cy="3.471" r="3.471" transform="translate(393.821 684.011)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3182" data-name="Group 3182">
+                <circle id="Ellipse_2353" data-name="Ellipse 2353" cx="3.471" cy="3.471" r="3.471" transform="translate(323.015 676.157)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3183" data-name="Group 3183">
+                <circle id="Ellipse_2354" data-name="Ellipse 2354" cx="3.471" cy="3.471" r="3.471" transform="translate(339.398 681.889)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3184" data-name="Group 3184">
+                <circle id="Ellipse_2355" data-name="Ellipse 2355" cx="3.471" cy="3.471" r="3.471" transform="translate(355.782 687.621)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3185" data-name="Group 3185">
+                <circle id="Ellipse_2356" data-name="Ellipse 2356" cx="3.471" cy="3.471" r="3.471" transform="translate(372.165 693.352)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3186" data-name="Group 3186">
+                <circle id="Ellipse_2357" data-name="Ellipse 2357" cx="3.471" cy="3.471" r="3.471" transform="translate(388.548 699.084)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3187" data-name="Group 3187">
+                <circle id="Ellipse_2358" data-name="Ellipse 2358" cx="3.471" cy="3.471" r="3.471" transform="translate(317.742 691.23)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3188" data-name="Group 3188">
+                <circle id="Ellipse_2359" data-name="Ellipse 2359" cx="3.471" cy="3.471" r="3.471" transform="translate(334.125 696.961)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3189" data-name="Group 3189">
+                <circle id="Ellipse_2360" data-name="Ellipse 2360" cx="3.471" cy="3.471" r="3.471" transform="translate(350.508 702.693)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3190" data-name="Group 3190">
+                <circle id="Ellipse_2361" data-name="Ellipse 2361" cx="3.471" cy="3.471" r="3.471" transform="translate(366.892 708.425)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3191" data-name="Group 3191">
+                <circle id="Ellipse_2362" data-name="Ellipse 2362" cx="3.471" cy="3.471" r="3.471" transform="translate(383.275 714.157)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3192" data-name="Group 3192">
+                <circle id="Ellipse_2363" data-name="Ellipse 2363" cx="3.471" cy="3.471" r="3.471" transform="translate(312.469 706.302)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3193" data-name="Group 3193">
+                <circle id="Ellipse_2364" data-name="Ellipse 2364" cx="3.471" cy="3.471" r="3.471" transform="translate(328.852 712.034)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3194" data-name="Group 3194">
+                <circle id="Ellipse_2365" data-name="Ellipse 2365" cx="3.471" cy="3.471" r="3.471" transform="translate(345.235 717.766)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3195" data-name="Group 3195">
+                <circle id="Ellipse_2366" data-name="Ellipse 2366" cx="3.471" cy="3.471" r="3.471" transform="translate(361.618 723.497)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3196" data-name="Group 3196">
+                <circle id="Ellipse_2367" data-name="Ellipse 2367" cx="3.471" cy="3.471" r="3.471" transform="translate(378.002 729.229)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3197" data-name="Group 3197">
+                <circle id="Ellipse_2368" data-name="Ellipse 2368" cx="3.471" cy="3.471" r="3.471" transform="translate(307.195 721.375)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3198" data-name="Group 3198">
+                <circle id="Ellipse_2369" data-name="Ellipse 2369" cx="3.471" cy="3.471" r="3.471" transform="translate(323.579 727.107)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3199" data-name="Group 3199">
+                <circle id="Ellipse_2370" data-name="Ellipse 2370" cx="3.471" cy="3.471" r="3.471" transform="translate(339.962 732.838)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3200" data-name="Group 3200">
+                <circle id="Ellipse_2371" data-name="Ellipse 2371" cx="3.471" cy="3.471" r="3.471" transform="translate(356.345 738.57)" fill="#dd91a9"/>
+              </g>
+              <g id="Group_3201" data-name="Group 3201">
+                <circle id="Ellipse_2372" data-name="Ellipse 2372" cx="3.471" cy="3.471" r="3.471" transform="translate(372.729 744.302)" fill="#dd91a9"/>
+              </g>
+            </g>
+          </g>
+          <circle id="Ellipse_2373" data-name="Ellipse 2373" cx="99.5" cy="99.5" r="99.5" transform="translate(1122.5 784.5)" fill="none" stroke="#b92655" stroke-miterlimit="10" stroke-width="1"/>
+          <circle id="Ellipse_2374" data-name="Ellipse 2374" cx="69.5" cy="69.5" r="69.5" transform="translate(1152.5 814.5)" fill="none" stroke="#b92655" stroke-miterlimit="10" stroke-width="1"/>
+          <path id="Path_2831" data-name="Path 2831" d="M1265,696.1V883.9a7.641,7.641,0,0,1-7.893,7.365H88.893A7.641,7.641,0,0,1,81,883.9V696.1a7.641,7.641,0,0,1,7.893-7.365H1257.107A7.641,7.641,0,0,1,1265,696.1Z" fill="none" stroke="#ce2c34" stroke-miterlimit="10" stroke-width="1"/>
+          <path id="Path_2832" data-name="Path 2832" d="M822.271,702.281l-11.611,25.53,36.513-12.626Z" fill="#dc658b"/>
+          <path id="Path_2833" data-name="Path 2833" d="M383.271,769.281l-11.611,25.53,36.513-12.626Z" fill="#dc658b"/>
+          <path id="Path_2834" data-name="Path 2834" d="M865.093,864.575l-41.149,12.164,51.189,29.554Z" fill="#dc658b"/>
+        </g>
+        <g id="Group_3211" data-name="Group 3211">
+          <g id="Group_3210" data-name="Group 3210">
+            <path id="Path_2835" data-name="Path 2835" d="M130.039,764.283a2.58,2.58,0,0,0,2.717-2.238c.091-1.441.077-2.3-.9-3.41-.733-.826-22.71-14.135-24.152-14.331-1.245-.391-5,2.974-5.272,4.055-2.035,8.119,3.62,11.815,5.132,10.9,1.21.851-3.8,8.857-3.388,10.774.848,3.966,7.934,6.786,7.953,7.146.138,2.642,2.4,9.456,5.025,10.174a5.186,5.186,0,0,0,3.79-.43c1.591,1.216,3.752,1.243,5.164-1.183C126.721,784.683,130.027,764.32,130.039,764.283Z" fill="#bde7f2"/>
+            <path id="Path_2836" data-name="Path 2836" d="M117.571,753.025c3.912,2.565,7.946,4.24,12.68,4.006,3.6-.178,3.108-5.761-.5-5.583-6.711.331-11.635-5.37-17.051-8.463-3.546-2.026-9.3-4.629-11.876-.081-3.971,7-.956,12.89,4.1,17.214-3.157,2.876-4.583,7.3-2.263,11.464a14.463,14.463,0,0,0,6.692,5.961c-.7,2.992.951,6.136,3.363,8.056a13.226,13.226,0,0,0,10.523,2.674c3.52-.622,3.065-6.213-.5-5.583a7.984,7.984,0,0,1-5.17-.594c-1.036-.52-2.723-1.662-2.75-2.949a19.854,19.854,0,0,0,5.043.084c3.574-.411,3.1-6-.5-5.583a12.874,12.874,0,0,1-10.182-2.9c-2.722-2.4-2.532-5.614.521-7.28a41.254,41.254,0,0,0,3.856,1.969c3.293,1.469,5.733-3.578,2.435-5.049-5.294-2.361-14.375-7.594-10.517-14.327C109.861,746.427,114.222,750.828,117.571,753.025Z" fill="#598e9b"/>
+            <path id="Path_2837" data-name="Path 2837" d="M248.019,665.541a31.8,31.8,0,0,0-19.55,12.091c-4.073,5.415-7.639,13.625-5.206,20.381-.013,0-.024.011-.036.014a14.852,14.852,0,0,0,5.155,5.569,37.183,37.183,0,0,0,5-3.231,45.8,45.8,0,0,0,18.7-31.057C252.406,666.721,250.513,665.1,248.019,665.541Z" fill="#328230"/>
+            <path id="Path_2838" data-name="Path 2838" d="M265.387,708.283a23.9,23.9,0,0,0-13.062-9.428,57.827,57.827,0,0,0-8.744-1.375c-3.377-.427-6.633-.961-10.019-.381a2.193,2.193,0,0,0-.611.2,18.217,18.217,0,0,0-2.585-.06c-1.941.108-3.724,2.156-2.942,4.146,1.414,3.6,4.435,6.021,7.576,8.1a32.563,32.563,0,0,0,8.961,4.036,33.157,33.157,0,0,0,19.691-.457A3.228,3.228,0,0,0,265.387,708.283Z" fill="#70b535"/>
+            <path id="Path_2839" data-name="Path 2839" d="M232.974,695.742a3.276,3.276,0,0,0-4.416-.959c-9.851,4.721-17.92,13.791-23.755,22.858-5.849,9.09-8.968,20.576-5.187,31.077,1.389,3.857,7.495,1.974,6.1-1.905-3.314-9.2-.11-18.819,5.041-26.658a73.927,73.927,0,0,1,9.257-11.186,43.225,43.225,0,0,1,12-8.811C233.572,699.412,233.823,697.064,232.974,695.742Z" fill="#2d1e07"/>
+            <path id="Path_2840" data-name="Path 2840" d="M260.086,804.34c-10.235,25.64-37,39.664-77.555,32.271-12.446-2.269-22.847-5.945-31.267-10.77-24.428-13.909-32.254-37.259-25.013-63,.48-1.7.989-3.358,1.548-4.979.754-2.262,1.595-4.451,2.5-6.565,9.534-22.42,26.579-36.708,47.652-41.147a68.863,68.863,0,0,1,7.211-1.12,78.388,78.388,0,0,1,21.962,1c.916.168,1.823.347,2.718.553a69.47,69.47,0,0,1,6.884,1.882c28.264,9.275,46.419,34.907,47.874,63.168q.168,3.235.031,6.507c-.069,1.945-.226,3.9-.46,5.847A65.58,65.58,0,0,1,260.086,804.34Z" fill="#fba71b"/>
+            <path id="Path_2841" data-name="Path 2841" d="M239,756.655c-3.653-4.628-11.2-2.775-13.575,2.264-2.037,4.321,1.466,8.867,5.674,9.563a7.444,7.444,0,0,0,3.936.069A7.538,7.538,0,0,0,239,756.655Z" fill="#2d1e07"/>
+            <path id="Path_2842" data-name="Path 2842" d="M153,776.266c-4.045-.737-5.2,5.548-1.146,6.286S157.048,777.005,153,776.266Z" fill="#2d1e07"/>
+            <path id="Path_2843" data-name="Path 2843" d="M162.124,769.4c-4.044-.738-5.2,5.547-1.146,6.285S166.176,770.137,162.124,769.4Z" fill="#2d1e07"/>
+            <path id="Path_2844" data-name="Path 2844" d="M164.311,786.205c-4.045-.738-5.2,5.547-1.146,6.285S168.362,786.943,164.311,786.205Z" fill="#2d1e07"/>
+            <path id="Path_2845" data-name="Path 2845" d="M236.717,777.036c-4.044-.737-5.2,5.547-1.146,6.286S240.768,777.775,236.717,777.036Z" fill="#2d1e07"/>
+            <path id="Path_2846" data-name="Path 2846" d="M248.347,790.641c-4.045-.737-5.2,5.547-1.146,6.286S252.4,791.38,248.347,790.641Z" fill="#2d1e07"/>
+            <path id="Path_2847" data-name="Path 2847" d="M235.526,792.57c-4.045-.737-5.2,5.547-1.146,6.286S239.577,793.309,235.526,792.57Z" fill="#2d1e07"/>
+            <circle id="Ellipse_2375" data-name="Ellipse 2375" cx="14.695" cy="14.695" r="14.695" transform="translate(146.989 768.104)" fill="#f9551c" opacity="0.41"/>
+            <circle id="Ellipse_2376" data-name="Ellipse 2376" cx="14.695" cy="14.695" r="14.695" transform="translate(225.134 778.454)" fill="#f9551c" opacity="0.41"/>
+            <path id="Path_2848" data-name="Path 2848" d="M180.563,726.163a6.04,6.04,0,0,0-3.632-4.625,8.166,8.166,0,0,0-5.847-.347,10.348,10.348,0,0,0-4.145,2.722,3.435,3.435,0,0,0-.593.878c-.228.1-.452.2-.659.316a5.32,5.32,0,0,0-2.212,2.221,4.247,4.247,0,0,0,.6,4.643,4.812,4.812,0,0,0,2.817,1.64c.035,0,.068,0,.1.007s.04.024.062.032a6.909,6.909,0,0,0,3.757.314c2.988-.481,6-1.287,8.035-3.335A5.626,5.626,0,0,0,180.563,726.163Z" fill="#ffca85"/>
+            <path id="Path_2849" data-name="Path 2849" d="M279.778,791.3a58.8,58.8,0,0,1-19.525-10.347c-2.819-2.248-6.474,2-3.65,4.253a66.144,66.144,0,0,0,22.17,11.607C282.216,797.862,283.193,792.34,279.778,791.3Z" fill="#2d1e07" stroke="#2d1e07" stroke-miterlimit="10" stroke-width="1"/>
+            <path id="Path_2850" data-name="Path 2850" d="M223.255,776.419c.021-2.315-2.741-2.97-4.385-2.056a19.368,19.368,0,0,1-16.732.916c.34-2.127-2.051-4.475-4.31-2.859-.269.192-3.22,2.353-3.041,3.922a10.2,10.2,0,0,0-.022,6.838,13.464,13.464,0,0,0,9.836,8.5C214.542,794.1,223.169,786.252,223.255,776.419Z" fill="#2d1e07"/>
+            <path id="Path_2851" data-name="Path 2851" d="M207.649,786.516a9.04,9.04,0,0,1-6.772-3.473,6.636,6.636,0,0,1-1.066-2.637,25.011,25.011,0,0,0,16.8.839A9.4,9.4,0,0,1,207.649,786.516Z" fill="#ce3a3a"/>
+            <path id="Path_2852" data-name="Path 2852" d="M190.439,744.18a42.972,42.972,0,0,1-10.123-15.908,41.084,41.084,0,0,1-1.591-5.531,41.57,41.57,0,0,1-.774-12.587,68.863,68.863,0,0,1,7.211-1.12A35.255,35.255,0,0,0,195,738.86C198.18,742.024,193.646,747.363,190.439,744.18Z" fill="#2d1e07"/>
+            <path id="Path_2853" data-name="Path 2853" d="M211.539,735.867a55.462,55.462,0,0,1-4.218-6.771c-1.006-1.944-3.2-5.386-3.029-7.639.336-4.449-6.551-5.754-6.891-1.256-.511,6.761,4.588,14.358,8.376,19.65C208.4,743.519,214.168,739.541,211.539,735.867Z" fill="#2d1e07"/>
+            <path id="Path_2854" data-name="Path 2854" d="M225.81,736.835a71.963,71.963,0,0,1-7.339-15.086c-1.493-4.252-8.082-1.87-6.584,2.393a79.919,79.919,0,0,0,8.162,16.677C222.487,744.622,228.242,740.628,225.81,736.835Z" fill="#2d1e07"/>
+            <path id="Path_2855" data-name="Path 2855" d="M237.97,737.654a31.772,31.772,0,0,1-3.937-6.816,3.58,3.58,0,0,0-4.489-2.1,3.54,3.54,0,0,0-2.1,4.49,39.236,39.236,0,0,0,4.76,8.406,3.5,3.5,0,1,0,5.761-3.984Z" fill="#2d1e07"/>
+            <path id="Path_2856" data-name="Path 2856" d="M196.256,803.913a2.8,2.8,0,0,1-.939-5.159l71.749-43.01a2.8,2.8,0,1,1,2.881,4.8L198.2,803.559A2.784,2.784,0,0,1,196.256,803.913Z" fill="#6d4a11"/>
+            <path id="Path_2857" data-name="Path 2857" d="M253.626,840.718a2.79,2.79,0,0,1-1.009-.4l-57.372-36.8a2.8,2.8,0,0,1,3.025-4.717L255.642,835.6a2.8,2.8,0,0,1-2.016,5.115Z" fill="#6d4a11"/>
+            <g id="Group_3205" data-name="Group 3205">
+              <path id="Path_2858" data-name="Path 2858" d="M282.783,794.055,270,766.428a9.929,9.929,0,0,0,3.086-5.974,9.972,9.972,0,0,0-19.537-3.818,9.933,9.933,0,0,0,1.084,7.609,58.488,58.488,0,0,1,5.385,11.242l3.968,12.294Z" fill="#ffdf57"/>
+              <path id="Path_2859" data-name="Path 2859" d="M282.281,796.811a2.781,2.781,0,0,1-.385-.1L263.1,790.439a2.8,2.8,0,0,1-1.779-1.8l-3.968-12.293a55.382,55.382,0,0,0-5.126-10.669,12.771,12.771,0,0,1,14.727-18.742,12.863,12.863,0,0,1,8.909,13.893,12.643,12.643,0,0,1-2.541,6.1l12,25.945a2.8,2.8,0,0,1-3.045,3.932Zm-16.06-11.239,11.295,3.771L267.46,767.6a2.8,2.8,0,0,1,.632-3.225,7.113,7.113,0,0,0,2.22-4.3,7.208,7.208,0,0,0-5-7.785,7.167,7.167,0,0,0-8.271,10.516,60.726,60.726,0,0,1,5.635,11.784Z" fill="#99641d"/>
+            </g>
+            <g id="Group_3206" data-name="Group 3206">
+              <path id="Path_2860" data-name="Path 2860" d="M275.292,813.737l-17.161,19.637a9.926,9.926,0,0,1-.091,6.1,9.972,9.972,0,0,1-19.052-5.867,9.921,9.921,0,0,1,4.2-5.712c5.09-3.283,29.416-21.874,29.416-21.874Z" fill="#ffdf57"/>
+              <path id="Path_2861" data-name="Path 2861" d="M246.3,848.836q-.3-.054-.6-.123a12.77,12.77,0,0,1-4.041-23.169c4.939-3.186,28.99-21.561,29.233-21.746a2.8,2.8,0,0,1,4.347,1.3l2.691,7.713a2.8,2.8,0,0,1-.536,2.767l-16.216,18.555a12.677,12.677,0,0,1-.493,6.24A12.881,12.881,0,0,1,246.3,848.836Zm24.925-38.242c-6.744,5.132-22.445,17.028-26.523,19.659a7.168,7.168,0,0,0,2.275,13,7.215,7.215,0,0,0,8.406-4.677,7.127,7.127,0,0,0,.065-4.388,2.8,2.8,0,0,1,.57-2.659l16.088-18.41Z" fill="#99641d"/>
+            </g>
+            <g id="Group_3207" data-name="Group 3207">
+              <rect id="Rectangle_845" data-name="Rectangle 845" width="7.518" height="72.678" rx="3.48" transform="matrix(-0.026, -1, 1, -0.026, 197.193, 804.752)" fill="#bc913c"/>
+              <path id="Path_2862" data-name="Path 2862" d="M199.8,806.662a5.86,5.86,0,0,1,.9-11.624l65.137-1.69a5.868,5.868,0,0,1,6.011,5.707h0a5.862,5.862,0,0,1-5.707,6.011l-65.138,1.689A5.838,5.838,0,0,1,199.8,806.662Zm66.486-9.086a1.534,1.534,0,0,0-.34-.026l-65.138,1.689a1.658,1.658,0,0,0-1.614,1.7,1.663,1.663,0,0,0,1.7,1.615l65.137-1.69a1.658,1.658,0,0,0,.254-3.288Z" fill="#724e19"/>
+            </g>
+            <g id="Group_3208" data-name="Group 3208">
+              <path id="Path_2863" data-name="Path 2863" d="M266.983,797.493l3.2,2.821-3.051,2.984a11.059,11.059,0,0,0,2.4,17.592h0a11.059,11.059,0,0,0,13.679-2.425l14.533-16.7a3.208,3.208,0,0,0-.113-4.334L282.25,781.513a11.06,11.06,0,0,0-13.787-1.713h0A11.059,11.059,0,0,0,266.983,797.493Z" fill="#ed778d"/>
+              <path id="Path_2864" data-name="Path 2864" d="M272.333,824.822a13.853,13.853,0,0,1-7.159-23.527l.893-.874-.936-.826a13.859,13.859,0,0,1,1.855-22.175,13.936,13.936,0,0,1,17.279,2.147l15.379,15.921a5.974,5.974,0,0,1,.21,8.119l-14.532,16.7A13.948,13.948,0,0,1,272.333,824.822Zm3.449-43.735a8.249,8.249,0,0,0-6.946,14.3l5.464,4.816-5.207,5.094a8.257,8.257,0,0,0,1.787,13.135,8.3,8.3,0,0,0,10.215-1.81l14.532-16.7a.4.4,0,0,0-.014-.547L280.234,783.46A8.234,8.234,0,0,0,275.782,781.087Z" fill="#dd3a59"/>
+            </g>
+            <g id="Group_3209" data-name="Group 3209">
+              <path id="Path_2865" data-name="Path 2865" d="M170.608,771.641a3.6,3.6,0,0,0,1.091-.177c7.765-2.486,15.575-5.17,23.215-7.977a3.341,3.341,0,0,0,2.129-3.111A3.066,3.066,0,0,0,195.2,757.4l-20.731-8.853a3.329,3.329,0,0,0-4.424,1.864,2.988,2.988,0,0,0,1.6,4.105l13.113,5.6c-5.137,1.8-10.269,3.528-15.273,5.129a3.01,3.01,0,0,0-1.984,3.968A3.329,3.329,0,0,0,170.608,771.641Z" fill="#2d1e07"/>
+              <path id="Path_2866" data-name="Path 2866" d="M199.5,798.477a3.009,3.009,0,0,0-2.858-1.234c-12.873,1.258-30.02,1.24-38.586-5.984a14.585,14.585,0,0,1-5.254-10.482,3.118,3.118,0,0,0-3.473-2.919,3.2,3.2,0,0,0-3.109,3.488,20.349,20.349,0,0,0,7.289,14.64c8,6.744,21,8.426,31.982,8.426,4.388,0,8.453-.268,11.744-.59a3.055,3.055,0,0,0,2.6-1.8A3.665,3.665,0,0,0,199.5,798.477Z" fill="#2d1e07"/>
+            </g>
+            <path id="Path_2867" data-name="Path 2867" d="M264.6,775.635a71.252,71.252,0,0,0-5.859-24.841C262.2,777.2,251.49,804.158,227,819c-22.909,14-48.653,12.6-74.655,7.425,8.228,4.532,18.258,8.012,30.186,10.186,40.554,7.393,67.32-6.632,77.555-32.271a65.569,65.569,0,0,0,4.085-16.351c.234-1.951.391-3.9.46-5.847Q264.769,778.866,264.6,775.635Z" fill="#b40505" opacity="0.1"/>
+          </g>
+        </g>
+        <g id="Group_3218" data-name="Group 3218">
+          <path id="Path_2868" data-name="Path 2868" d="M1196.229,731.7c7.6-6.221,18-15.483,15.083-26.516a3.253,3.253,0,0,0-3.868-2.336,3.167,3.167,0,0,0-1.62,1.01,8.907,8.907,0,0,0-3.884,2.364,54.011,54.011,0,0,0-5.211,5.865,23.189,23.189,0,0,0-4.554,9.91,18.054,18.054,0,0,0-1.388,7.374A3.239,3.239,0,0,0,1196.229,731.7Z" fill="#548723"/>
+          <path id="Path_2869" data-name="Path 2869" d="M1188.706,719.286a135.29,135.29,0,0,0-11.222-8.258c-7.94-5.448-16.532-9.688-26.124-11.173a3.8,3.8,0,0,0-4.454,2.747c-.29,1.224,3.3,12.163,5.757,15.86a40.477,40.477,0,0,0,11.3,11.722c7.583,4.927,16.863,4.547,25.523,3.409a4.087,4.087,0,0,0,3.358.67,3.412,3.412,0,0,0,2.447-2.515,3.378,3.378,0,0,0,.848-2.366,4.084,4.084,0,0,0-1.841-3.138A21.123,21.123,0,0,0,1188.706,719.286Z" fill="#225b1e"/>
+          <path id="Path_2870" data-name="Path 2870" d="M1193.015,728.466c-4.674,2.525-8.9,5.172-11.427,10.006-2.764,5.278-3.938,11.617-4.42,17.487-.294,3.577,5.248,4.417,5.544.815a47.071,47.071,0,0,1,3.1-14.075c1.841-4.479,5.167-6.8,9.3-9.034C1198.247,731.971,1196.193,726.75,1193.015,728.466Z" fill="#2d1e07"/>
+          <path id="Path_2871" data-name="Path 2871" d="M1235.248,843.7c-9.345,25.977-35.612,40.916-76.4,34.924-12.516-1.839-23.039-5.155-31.619-9.687-24.893-13.059-33.519-36.125-27.169-62.1.421-1.715.873-3.391,1.376-5.03.676-2.287,1.44-4.5,2.272-6.647,8.756-22.736,25.3-37.6,46.206-42.764a68.753,68.753,0,0,1,7.168-1.369,78.426,78.426,0,0,1,21.983.242c.922.135,1.835.284,2.736.459a69.3,69.3,0,0,1,6.945,1.643c28.567,8.3,47.594,33.287,50.022,61.482q.279,3.227.255,6.5,0,2.921-.259,5.86A65.6,65.6,0,0,1,1235.248,843.7Z" fill="#b24f18"/>
+          <path id="Path_2872" data-name="Path 2872" d="M1098.311,817.321c-1.922,21.615,7.435,40.345,28.921,51.617,8.581,4.531,19.1,7.847,31.619,9.686,36.439,5.353,61.276-6.009,72.824-27.015A61.61,61.61,0,0,1,1205,861C1167,865.222,1124.014,848.052,1098.311,817.321Z" fill="#3f0505" opacity="0.1"/>
+          <path id="Path_2873" data-name="Path 2873" d="M1141.329,792.495a7.183,7.183,0,0,0-5.863-4.263,3.913,3.913,0,0,0-2.7.151,7.324,7.324,0,0,0-5.267,4.3,7.6,7.6,0,0,0,12.831,7.6A7.554,7.554,0,0,0,1141.329,792.495Z" fill="#2d1e07"/>
+          <path id="Path_2874" data-name="Path 2874" d="M1191.742,793.716c-3.811-4.5-11.29-2.388-13.49,2.729-1.886,4.389,1.772,8.812,6,9.362a7.434,7.434,0,0,0,3.936-.067A7.536,7.536,0,0,0,1191.742,793.716Z" fill="#2d1e07"/>
+          <path id="Path_2875" data-name="Path 2875" d="M1111.825,813.525c-4.068-.6-5,5.723-.929,6.322S1115.9,814.124,1111.825,813.525Z" fill="#2d1e07"/>
+          <path id="Path_2876" data-name="Path 2876" d="M1120.71,806.347c-4.067-.6-5,5.723-.929,6.322S1124.784,806.946,1120.71,806.347Z" fill="#2d1e07"/>
+          <path id="Path_2877" data-name="Path 2877" d="M1123.474,823.068c-4.067-.6-5,5.723-.928,6.321S1127.549,823.667,1123.474,823.068Z" fill="#2d1e07"/>
+          <path id="Path_2878" data-name="Path 2878" d="M1195.623,810.717c-4.067-.6-5,5.723-.928,6.322S1199.7,811.316,1195.623,810.717Z" fill="#2d1e07"/>
+          <path id="Path_2879" data-name="Path 2879" d="M1207.715,823.914c-4.067-.6-5,5.723-.928,6.321S1211.789,824.512,1207.715,823.914Z" fill="#2d1e07"/>
+          <path id="Path_2880" data-name="Path 2880" d="M1194.968,826.283c-4.068-.6-5,5.723-.929,6.321S1199.042,826.882,1194.968,826.283Z" fill="#2d1e07"/>
+          <circle id="Ellipse_2377" data-name="Ellipse 2377" cx="14.695" cy="14.695" r="14.695" transform="translate(1106.037 805.06)" fill="#f2ac0f" opacity="0.41"/>
+          <circle id="Ellipse_2378" data-name="Ellipse 2378" cx="14.695" cy="14.695" r="14.695" transform="translate(1184.594 812.019)" fill="#f2ac0f" opacity="0.41"/>
+          <path id="Path_2881" data-name="Path 2881" d="M1153.079,768.309a6.038,6.038,0,0,0-3.789-4.5,8.164,8.164,0,0,0-5.856-.146,10.35,10.35,0,0,0-4.048,2.863,3.391,3.391,0,0,0-.562.9c-.225.107-.446.219-.648.338a5.314,5.314,0,0,0-2.135,2.3,4.249,4.249,0,0,0,.757,4.62,4.807,4.807,0,0,0,2.872,1.541c.034,0,.068,0,.1,0s.042.022.064.03a6.906,6.906,0,0,0,3.766.184c2.97-.584,5.948-1.493,7.915-3.61A5.623,5.623,0,0,0,1153.079,768.309Z" fill="#cc805a"/>
+          <path id="Path_2882" data-name="Path 2882" d="M1166.436,808.58a2.677,2.677,0,0,0-2.386.538c-.74-.513-1.456-1.12-1.667-1.229a3.746,3.746,0,0,0-2.875-.3,22.482,22.482,0,0,0-2.428.958,2.65,2.65,0,0,0-3.213-.25,4.549,4.549,0,0,1-.667-.675c-2.26-2.8-6.765.529-4.5,3.344a9.95,9.95,0,0,0,3.339,2.728c-1.091,5.806-1.169,13.512,5.422,14.108,6.72.608,9.979-7.087,11.023-13.135a6.469,6.469,0,0,0,3.023-4.266C1172.3,807.306,1168.032,806.342,1166.436,808.58Z" fill="#2d1e07"/>
+          <path id="Path_2883" data-name="Path 2883" d="M1159.156,821.886c-2.232,1.191-2-1.825-2-3.285a23.049,23.049,0,0,1,.427-4.287c.965-.279,1.855-.717,2.84-1.109.884.46,1.647,1,2.441,1.438C1162.348,817.562,1161.3,820.743,1159.156,821.886Z" fill="#ce3a3a"/>
+          <g id="Group_3216" data-name="Group 3216">
+            <g id="Group_3212" data-name="Group 3212">
+              <path id="Path_2884" data-name="Path 2884" d="M1097.611,805.269l-1.1-11.008-15.8-12.941-1.833,12.475Z" fill="#fff"/>
+              <path id="Path_2885" data-name="Path 2885" d="M1100.122,809.272l-23.519-14.41,2.574-17.52,19.343,15.845Zm-18.958-16.544,13.937,8.539-.591-5.932L1082.257,785.3Z" fill="#724e19"/>
+            </g>
+            <g id="Group_3213" data-name="Group 3213">
+              <path id="Path_2886" data-name="Path 2886" d="M1095.421,812.945l-10.4,3.767-18.5-8.659,10.459-7.041Z" fill="#fff"/>
+              <path id="Path_2887" data-name="Path 2887" d="M1084.916,818.985l-22.645-10.6,14.689-9.888,23.155,14.986Zm-14.14-11.262,14.346,6.717,5.605-2.03-13.722-8.88Z" fill="#724e19"/>
+            </g>
+            <g id="Group_3214" data-name="Group 3214">
+              <rect id="Rectangle_846" data-name="Rectangle 846" width="7.518" height="72.678" rx="3.48" transform="matrix(0.53, -0.848, 0.848, 0.53, 1071.932, 798.077)" fill="#bc913c"/>
+              <path id="Path_2888" data-name="Path 2888" d="M1132.346,837.3a5.822,5.822,0,0,1-3.1-.893l-55.245-34.552a5.861,5.861,0,0,1,6.215-9.938l55.245,34.551a5.864,5.864,0,0,1-3.119,10.832Zm-55.231-42.071a1.657,1.657,0,0,0-.881,3.063l55.244,34.551a1.657,1.657,0,0,0,2.284-.526h0a1.656,1.656,0,0,0-.527-2.284l-55.244-34.551A1.644,1.644,0,0,0,1077.115,795.226Z" fill="#724e19"/>
+            </g>
+            <g id="Group_3215" data-name="Group 3215">
+              <path id="Path_2889" data-name="Path 2889" d="M1134.131,830.553l1.111,4.12-4.19.8a11.059,11.059,0,0,0-7.715,15.991h0a11.06,11.06,0,0,0,12.745,5.53l21.335-5.9a3.208,3.208,0,0,0,2.3-3.675l-4.033-21.765a11.059,11.059,0,0,0-10.55-9.04h0A11.059,11.059,0,0,0,1134.131,830.553Z" fill="#ba3a56"/>
+              <path id="Path_2890" data-name="Path 2890" d="M1133.18,860.192a13.953,13.953,0,0,1-12.326-7.425,13.862,13.862,0,0,1,9.669-20.043l1.227-.235-.325-1.206a13.861,13.861,0,0,1,13.789-17.465,13.935,13.935,0,0,1,13.223,11.329l4.033,21.766a5.973,5.973,0,0,1-4.307,6.885l-21.335,5.9A13.645,13.645,0,0,1,1133.18,860.192Zm3.656-30.369,1.9,7.033-7.154,1.372a8.256,8.256,0,0,0-5.76,11.939,8.3,8.3,0,0,0,9.515,4.129l21.337-5.9a.4.4,0,0,0,.29-.464l-4.033-21.765a8.3,8.3,0,0,0-7.878-6.749,8.257,8.257,0,0,0-8.214,10.4Z" fill="#ed778d"/>
+            </g>
+          </g>
+          <g id="Group_3217" data-name="Group 3217">
+            <path id="Path_2891" data-name="Path 2891" d="M1123.464,834.008c-3.462-.457-13.029-3.519-15.077-8.032a3.984,3.984,0,0,1,.467-4.1,2.953,2.953,0,0,0,.26-3.044,3.663,3.663,0,0,0-2.975-1.947,3.126,3.126,0,0,0-2.868,1.465c-2.207,3.31-2.593,6.6-1.147,9.792,3.188,7.027,14.44,11.59,21.042,12.462a3.753,3.753,0,0,0,.479.032,2.678,2.678,0,0,0,2.2-1.041,3.578,3.578,0,0,0,.357-3.495A3.363,3.363,0,0,0,1123.464,834.008Z" fill="#2d1e07"/>
+            <path id="Path_2892" data-name="Path 2892" d="M1207.012,822.4a3.647,3.647,0,0,0-2.872-2.059,2.845,2.845,0,0,0-2.607,1.341c-4.228,6.174-11.545,8.568-18.619,10.882l-1.474.484c-7.359,2.433-17.109,5.27-27.257,5.615a2.8,2.8,0,0,0-2.5,1.456,3.639,3.639,0,0,0,.209,3.519,3.316,3.316,0,0,0,2.879,1.589l.129,0c10.723-.364,20.822-3.3,30.139-6.427,7.76-2.6,16.555-5.55,21.69-13.051A3.281,3.281,0,0,0,1207.012,822.4Z" fill="#2d1e07"/>
+          </g>
+          <path id="Path_2893" data-name="Path 2893" d="M1109.559,723.381c-9.215-1.629-11.206,7.978-12.094,10.808a7.9,7.9,0,0,0-4.28-2.142c-5.818-.992-10.869,4.472-10.9,9.7-.151,24.139,25.6,32.905,26.2,32.355.435-.4-1.833-1.211-2.684-10.831.851-14.2,6.455-21.9,8.181-30.892C1114.654,728.851,1113.416,724.062,1109.559,723.381Z" fill="#f66"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_3225" data-name="Group 3225">
+      <g id="Group_3221" data-name="Group 3221">
+        <path id="Path_2894" data-name="Path 2894" d="M579.587,796.145c2.121-.279,4.471-.462,6.986-.543l.1,0,1.685,2.046h.825a1.986,1.986,0,0,0,1.037-1.031,9.167,9.167,0,0,0-.992-3.118c-.517-.957-1.025-1.971-1.506-3.015a2,2,0,0,0-1.063-1.086H585.6a1.986,1.986,0,0,0-1.047,1.055,4.417,4.417,0,0,0,.234,1.926l.081.243-.627.049q-1.37.106-2.691.211c-.993.08-2.142.2-3.415.359l-.552.068.382-.4c1.355-1.436,2.665-2.928,3.894-4.434,1.187-1.456,2.445-2.973,3.739-4.511v-.846a1.988,1.988,0,0,0-1.042-1.044h-.977a10.2,10.2,0,0,0-2.542,2.558,17.388,17.388,0,0,1-2.552,2.916l-.106.1-3.107-1.755,4.079-4.573v-.963a1.984,1.984,0,0,0-1.043-1.043h-.848a41.845,41.845,0,0,0-3.353,3.005,16.253,16.253,0,0,0-2.651,3.466,2.17,2.17,0,0,0,.311,1.474l4.262,2.758-2.347,2.217a6.445,6.445,0,0,0-1.991,2.8l-.143.4-2.62-4.453a2.027,2.027,0,0,0-1.072-1.1h-1a1.993,1.993,0,0,0-1.048,1.054,3.81,3.81,0,0,0,.233,1.8l.1.265-7.046.136.376-.356c1.428-1.35,2.86-2.8,4.254-4.315,1.369-1.485,2.745-2.883,4.092-4.155v-.953a1.986,1.986,0,0,0-1.043-1.044h-.985a10.287,10.287,0,0,0-2.842,2.449,26.571,26.571,0,0,1-2.724,2.905l-.117.107-1.862-1.289,3.808-5.158v-.974a1.99,1.99,0,0,0-1.044-1.043h-.845a21.324,21.324,0,0,0-2.979,3.165c-.892,1.165-1.851,2.365-2.85,3.565a2.159,2.159,0,0,0,.317,1.461l2.986,2.286-.175.161a18.516,18.516,0,0,1-3.007,2.309,7.181,7.181,0,0,0-2.281,2.181,1.776,1.776,0,0,0,.3,1.334l1.237.675,5.41-.238a64.977,64.977,0,0,0,8.743-.358l.144-.025,1,1.88.755.432a1.784,1.784,0,0,0,1.373-.323,1.446,1.446,0,0,0,.527-1.382l-.041-.324,1.592.579C575.344,796.6,577.486,796.422,579.587,796.145Z" fill="#a33d7c"/>
+        <path id="Path_2895" data-name="Path 2895" d="M568.183,764.18a2,2,0,0,0-1.047-1.035l-20.616-.238-1.223.889a10.973,10.973,0,0,0-.864,4.081c-.04,1.53.1,16.28.421,43.841a9.48,9.48,0,0,0,1.028,3.937l1.11.555a2.59,2.59,0,0,0,1.946-.531l.56-1.121-.965-36.253,14.8-.122a5.1,5.1,0,0,0,4.435-1.032,3.745,3.745,0,0,0,.654-1.675l0-9.887Zm-4.047,10.8-15.608.246.14-2.985h15.468Zm0-5.823H548.769l.138-3.166,15.229.246Z" fill="#a33d7c"/>
+        <path id="Path_2896" data-name="Path 2896" d="M582.213,806.956h3.067a1.97,1.97,0,0,0,1.1-1.043v-5.863A1.974,1.974,0,0,0,585.268,799a2.208,2.208,0,0,0-1.479.3l-.671,1.23.126,3.288-6.42-.385.125-3.993A1.991,1.991,0,0,0,575.9,798.4a1.77,1.77,0,0,0-1.349.295,9.921,9.921,0,0,0-.921,5.26l.24,9.882a1.983,1.983,0,0,0,1.044,1.045h.877a1.988,1.988,0,0,0,1.043-1.041l-.122-7.257.212.009C578.674,806.675,580.455,806.8,582.213,806.956Z" fill="#a33d7c"/>
+        <path id="Path_2897" data-name="Path 2897" d="M558.558,815.352a12.152,12.152,0,0,0,4.77-2.524,9.608,9.608,0,0,0,3.177-5.152,24.192,24.192,0,0,0,.714-6.821v-1.767a1.988,1.988,0,0,0-1.054-1.047,1.8,1.8,0,0,0-1.352.3,7.765,7.765,0,0,0-.8,4.414l.02.219h-6.314l.126-3.165a1.989,1.989,0,0,0-1.052-1.044,1.767,1.767,0,0,0-1.384.322,3.639,3.639,0,0,0-.826,2.366,8.314,8.314,0,0,0,.447,3.9,3.721,3.721,0,0,0,1.955.765h6.745l-.088.264a11.825,11.825,0,0,1-1.954,3.543,6.748,6.748,0,0,1-3.588,2.352,1.987,1.987,0,0,0-1.059,1.062,1.788,1.788,0,0,0,.3,1.353Z" fill="#a33d7c"/>
+        <path id="Path_2898" data-name="Path 2898" d="M592.739,816.568a3.516,3.516,0,0,0,2.465-.662,3.96,3.96,0,0,0,.668-2.609l.6-41.343v-5.616a17.587,17.587,0,0,0-.925-2.548,3.26,3.26,0,0,0-1.781-.765l-17.941-.239a2.735,2.735,0,0,0-3.162,2.468c-.314,6.009-.122,9.949.572,11.7l.422.422a13.258,13.258,0,0,0,4.459.871q2.4.062,13.514.3l.2,0v.2l-.242,32.518-1.094-.312a2.992,2.992,0,0,0-2.07.541l-.562,1.124a2.589,2.589,0,0,0,.556,1.976A13.134,13.134,0,0,0,592.739,816.568Zm-15.789-50.7.2,0,14.9.243.137,3.042-15.245-.124Zm-.12,9.227v-2.978h.2l15.047.122-.134,2.072v1.153Z" fill="#a33d7c"/>
+      </g>
+      <g id="Group_3222" data-name="Group 3222">
+        <path id="Path_2899" data-name="Path 2899" d="M623.849,812.044c.752.711,1.529,1.418,2.321,2.109a6.064,6.064,0,0,0,2.584,1.337c1.075.21,2-.795,2.741-2.992a82.517,82.517,0,0,0,2.4-9.676c.817-4.13,1.473-8.338,1.95-12.508.46-2.111.3-3.371-.463-3.764a7.191,7.191,0,0,0-2.689-.759c-.975-.079-3.953-.2-8.85-.36l-.217-.008.025-.214c.16-1.4.352-2.786.573-4.124a40.159,40.159,0,0,0,.448-4.1l.011-.2.2.009,9.07.481a3.62,3.62,0,0,0,2.477-.654l.56-1.065a2.673,2.673,0,0,0-.521-1.93,25.669,25.669,0,0,0-4.973-.817c-1.765-.118-3.568-.179-5.362-.179h-.179l-.019-.177a29.93,29.93,0,0,1-.183-4.264,10.789,10.789,0,0,0-.563-3.846l-1.094-.547a2.4,2.4,0,0,0-1.911.551,2.7,2.7,0,0,0-.659,1.5l.125,6.894-.193.009c-1.677.08-3.429.121-5.206.121a18.333,18.333,0,0,0-4.873.627l-.545,1.143a2.623,2.623,0,0,0,.556,1.863,2.927,2.927,0,0,0,1.495.653l7.638-.249-.017.222a83.9,83.9,0,0,1-2.528,14.843,88.391,88.391,0,0,1-5.164,14.267,2.477,2.477,0,0,0,.53,1.887l1.069.507a2.7,2.7,0,0,0,2.127-.706,77.491,77.491,0,0,0,3.638-8.863,69.2,69.2,0,0,0,2.456-9.314l.031-.164,8.9.064-.009.208a71.743,71.743,0,0,1-1.206,10.119c-.639,3.316-1.409,6.6-2.287,9.747l-.091.33-.243-.242a8.006,8.006,0,0,0-2.672-2.051,2.662,2.662,0,0,0-1.951.535l-.5,1.065A3,3,0,0,0,623.849,812.044Z" fill="#a33d7c"/>
+        <path id="Path_2900" data-name="Path 2900" d="M666.3,781.692a2.32,2.32,0,0,0-.893-2.074c-2.58-3.257-4.8-6-6.633-8.2s-4.266-4.764-7.254-7.672a1.7,1.7,0,0,0-1.149-.746,2.616,2.616,0,0,0-1.8.732,67.718,67.718,0,0,1-6.427,9.725c-2.412,3.043-4.723,6.137-6.871,9.2a2.9,2.9,0,0,0,.537,1.992l1.065.5a2.586,2.586,0,0,0,1.9-.486c6.76-8.949,10.529-14.108,11.2-15.332l.111-.2.183.135c2.522,1.842,6.729,6.39,12.5,13.516l1.068.505a2.58,2.58,0,0,0,1.89-.475Z" fill="#a33d7c"/>
+        <path id="Path_2901" data-name="Path 2901" d="M648.01,808.548a68.075,68.075,0,0,1,7.322,5.724,2.965,2.965,0,0,0,1.491.67,3.355,3.355,0,0,0,1.585-.651l.561-1.065a2.932,2.932,0,0,0-1.019-2.5c-3.208-2.454-5.63-4.23-7.185-5.267-1.527-1.018-3.6-2.364-6.149-4a2.4,2.4,0,0,0-2.049.475L642,803.066a2.76,2.76,0,0,0,.54,2.017Q645.29,806.815,648.01,808.548Z" fill="#a33d7c"/>
+        <path id="Path_2902" data-name="Path 2902" d="M653.847,787.93c-1.675-.876-3.408-1.681-5.15-2.393a2.966,2.966,0,0,0-2.347.544l-.5,1.066a2.646,2.646,0,0,0,.468,1.883c1.868.758,3.737,1.623,5.555,2.57s3.651,1.827,5.462,2.616a3.773,3.773,0,0,0,1.679-.651l.556-1.06a2.975,2.975,0,0,0-.65-2.008C657.192,789.654,655.487,788.791,653.847,787.93Z" fill="#a33d7c"/>
+      </g>
+      <g id="Group_3223" data-name="Group 3223">
+        <path id="Path_2903" data-name="Path 2903" d="M719.223,770.128a6.841,6.841,0,0,0,1.158,2.916,29.7,29.7,0,0,1,1.723,2.787l1.112.554a2.427,2.427,0,0,0,1.941-.585l.506-1.124a5.145,5.145,0,0,0-.9-2.937c-.6-.872-1.19-1.8-1.75-2.754l-1.113-.557a2.914,2.914,0,0,0-2.129.594Z" fill="#a33d7c"/>
+        <path id="Path_2904" data-name="Path 2904" d="M707.314,812.706a20,20,0,0,0,5.959-3.333c1.848-1.491,3.752-3.194,5.663-5.063l.222-.218.106.292a23.753,23.753,0,0,0,2.5,4.973,48.551,48.551,0,0,0,5.42,6.347c.624.331,1.283.085,2.009-.751,2.471-3.256,4.095-5.518,4.82-6.716a2.8,2.8,0,0,0-.587-1.939l-1.128-.508a2.572,2.572,0,0,0-1.982.555l-3.093,3.475-.144-.208a39.279,39.279,0,0,1-2.687-4.468c-.786-1.53-1.505-3.071-2.139-4.579l-.048-.113.08-.094c1.873-2.191,3.334-4.046,4.342-5.51a25.23,25.23,0,0,0,2.521-4.619,2.428,2.428,0,0,0-.526-1.891l-1.192-.568a2.774,2.774,0,0,0-2.015.538q-1.071,1.845-2.113,3.689a13.634,13.634,0,0,1-2.955,3.536l-.224.194-.1-.279q-.961-2.763-1.923-5.588a48.494,48.494,0,0,1-1.568-5.73l-.05-.241h9.677a3.641,3.641,0,0,0,1.585-.655l.56-1.122a2.566,2.566,0,0,0-.529-1.944L726.6,779.6l-10.874.061-.03-.166c-.439-2.476-.795-5.058-1.054-7.674a43.174,43.174,0,0,0-1.378-7.412l-1.144-.491a2.424,2.424,0,0,0-1.918.551,3,3,0,0,0-.654,1.531c.353,2.128.666,4.314.927,6.5.258,2.16.571,4.512.931,6.993l.032.224-15.809.247.124-10.374.128-.048a21.022,21.022,0,0,1,3.032-.878,15.249,15.249,0,0,0,2.838-.891l.551-1.1a2.575,2.575,0,0,0-.531-1.946l-1.105-.553a91.347,91.347,0,0,0-9.495,2.207,37.5,37.5,0,0,0-8.943,3.914l-.555,1.11a2.8,2.8,0,0,0,.589,1.952l1.1.547a21.564,21.564,0,0,0,3.586-1.378,21.723,21.723,0,0,1,4.153-1.485l.25-.065v9.045l-.2,0-10.459.119-1.043.605-.556,1.114a2.592,2.592,0,0,0,.54,1.957,3.674,3.674,0,0,0,1.63.612l10.087-.124v11.647L691.2,796q-2.645.719-5.224,1.441c-1.681.469-3.369.984-5.018,1.533l-.544,1.088a2.67,2.67,0,0,0,.608,1.976,3,3,0,0,0,1.53.654c1.4-.273,2.821-.623,4.214-1.04s2.93-.834,4.574-1.234l.241-.059.256,9.275-1.881-.836a2.375,2.375,0,0,0-1.948.583l-.569,1.137a2.57,2.57,0,0,0,.557,1.978c.9.736,1.809,1.5,2.71,2.259a7.289,7.289,0,0,0,2.945,1.518,2.585,2.585,0,0,0,2.085-.288,1.837,1.837,0,0,0,.557-1.442l-.363-15.575.137-.047a13.948,13.948,0,0,1,3.352-.7,7.333,7.333,0,0,0,3.045-.932l.5-1.112a2.586,2.586,0,0,0-.53-1.951l-1.116-.557a38.793,38.793,0,0,0-5.443.833l-.243.053v-10.3l16.6-.247.016.186a29.844,29.844,0,0,0,1.612,6.771c.918,2.7,1.928,5.574,3,8.556l.036.1-.065.086a30.574,30.574,0,0,1-5.048,5.261,69.266,69.266,0,0,1-5.588,4.127l-.559,1.119a2.575,2.575,0,0,0,.529,1.945Z" fill="#a33d7c"/>
+      </g>
+      <g id="Group_3224" data-name="Group 3224">
+        <path id="Path_2905" data-name="Path 2905" d="M795.258,813.357a16.731,16.731,0,0,0,3.62,1.9,1.965,1.965,0,0,0,1.55.08,1.333,1.333,0,0,0,.62-.906c.294-1.1.443-16.6.443-46.079.207-1.772-.017-2.448-.241-2.707a.523.523,0,0,0-.4-.186q-1.2-.03-7.539-.21c-4.193-.119-6.709-.13-7.478-.033a.71.71,0,0,0-.5.275,2.669,2.669,0,0,0-.2,1.874l.362,16.18c-.114,1.829.31,2.762,1.293,2.869,1.085.119,4.524.1,10.214-.062l.206-.006v22.97l-3.388-2.086a2.561,2.561,0,0,0-1.937.531l-.565,1.132a2.593,2.593,0,0,0,.556,1.977C792.964,811.721,794.112,812.568,795.258,813.357Zm-5.781-44.134.21.01,7.279.37V773h-7.489Zm.372,12.72-.262-4.6h7.373l.132,4.729Z" fill="#a33d7c"/>
+        <path id="Path_2906" data-name="Path 2906" d="M752.279,785.948l.342-.434.016.552c.4,14.538.661,22.831.78,24.65a21.255,21.255,0,0,0,1.351,5.87,3.019,3.019,0,0,0,1.513.639,3.729,3.729,0,0,0,1.649-.656l.606-1.1c-.315-2.049-.586-3.9-.8-5.491-.222-1.64-.449-11.993-.692-31.65l.016-.082c2.5-5.8,4.419-10,5.694-12.471a2.586,2.586,0,0,0-.53-1.946l-1.13-.565a2.746,2.746,0,0,0-2.071.654c-2.347,4.139-4.583,8.379-6.645,12.6s-4.321,8.433-6.7,12.479a3.827,3.827,0,0,0,.649,1.723l1.123.561a3.012,3.012,0,0,0,2.061-.53A18.483,18.483,0,0,1,752.279,785.948Z" fill="#a33d7c"/>
+        <path id="Path_2907" data-name="Path 2907" d="M766.995,764.677c-1.123.127-1.576,1.205-1.385,3.3.04,16.786.141,27.828.3,32.838a99.131,99.131,0,0,0,1.54,14.62l1.078.538a2.572,2.572,0,0,0,1.946-.53l.56-1.12-.967-28.8,7.412-.124c2.14.217,2.944-.036,3.243-.286a.514.514,0,0,0,.2-.369c.059-.8.211-6.557.449-17.109a3.056,3.056,0,0,0-.55-2.326,1.737,1.737,0,0,0-1.407-.472C772.4,764.588,768.229,764.536,766.995,764.677Zm9.722,16.185-6.376.127-.533-4.255,7.042.256Zm-6.881-8.469v-3.156l6.88-.127.135,3.411Z" fill="#a33d7c"/>
+      </g>
+    </g>
+  </g>
+</svg>

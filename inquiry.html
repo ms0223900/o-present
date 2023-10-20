@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>歐禮品創藝國際有限公司</title>
+    <link rel="Shortcut Icon" href="./img/logo.png" type="image/x-icon">
+
+    <!-- css -->
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/custom.css">
+    <link rel="stylesheet" href="./css/productInfo.css">
+    <link rel="stylesheet" href="./css/common.css">
+
+    <link rel="stylesheet" href="./css/inquiry.css">
+    <!-- script -->
+    <script src="./js/bootstrap.bundle.min.js"></script>
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/popper.min.js"></script>
+    <script src="./js/inquiry.js"></script>
+    <!-- 字型 -->
+
+</head>
+
+<body>
+    <div class="topSideBar">
+        <header class="">
+            <button class="menuNav btn">
+                <img src="./img/menu.svg" alt="">
+            </button>
+            <!-- menu -->
+
+            <div class="logo">
+                <h1><a href="index.html" title="歐禮品創藝國際有限公司">歐禮品創藝國際有限公司</a></h1>
+            </div>
+
+            <div class="right">
+                <a href="product.html" title="">禮贈商品</a>
+                <a href="" title="">最新消息</a>
+                <a href="" title="">關於我們</a>
+                <a href="" title="">合作品牌</a>
+                <a href="" title="">常見問題</a>
+                <a href="" title="">聯絡我們</a>
+                <div class="search btn"><img id="topSearchImg" src="./img/topSideBar_search.svg" alt="">
+                    <div class="searchBox">
+                        <input id="keyword" placeholder="請輸入商品關鍵字" />
+                        <button type="submit" class="btn" onclick=""><img src="./img/topSideBar_search.svg" alt=""></button>
+
+                    </div>
+                </div>
+            </div>
+        </header>
+        <div class="menu">
+            <a href="inquiry.html" class="" title="">禮贈商品</a>
+            <a href="" title="">最新消息</a>
+            <a href="" title="">關於我們</a>
+            <a href="" title="">合作品牌</a>
+            <a href="" title="">常見問題</a>
+            <a href="" title="">聯絡我們</a>
+        </div>
+    </div>
+
+    <div class="wrap">
+        <div class="wrapContent">
+            <img class="pageBanner container" src="./img/banner_inquiry.svg" alt="">
+
+            <div class="main mediaFix">
+                <div class="container">
+                    <div class="mainTitle">
+
+                        <div class="title">
+                            <img src="./img/titleImg_6.svg" alt="">
+                            <h3>詢價車</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="main mediaFix carListContent">
+
+                <div class="container">
+                    <div class="mainContent">
+
+                        <div class="carList">
+                            <div class="carItem">
+                                <div class="title">小麥輕巧折疊杯</div>
+                                <div class="content">
+                                    <img class="photo" src="./product/01.jpg" alt="">
+                                    <div class="info">
+                                        <form id="carItem1" method='POST' action='#'>
+                                            <div class="customRadio">
+                                                <div class="radio-group">
+                                                    <input type="radio" id="stock" class="radio-input" name="customRadio" value="stock">
+                                                    <label for="stock" class="radio-label">
+                                                    <span class="radio-button"></span>
+                                                現貨</label>
+                                                </div>
+                                                <div class="radio-group">
+                                                    <input type="radio" id="custom" class="radio-input" name="customRadio" value="custom" checked>
+                                                    <label for="custom" class="radio-label">
+                                                    <span class="radio-button"></span>
+                                                客製</label>
+
+                                                </div>
+                                            </div>
+                                            <div class="productQuantity">
+
+                                                <label for="">數量</label>
+                                                <button class='qtyminus'> <img src="./img/qtyminus.svg" alt=""  ></button>
+
+                                                <input type='text' name='quantity' value='100' class='qty' />
+                                                <button class='quantity'><img src="./img/quantity.svg" alt=""></button>
+
+
+                                            </div>
+
+                                            <div class="productColor">
+                                                <label for="">顏色</label>
+
+                                                <label class="colorSelection" for="c1">
+                                                <input type="checkbox" id="c1" name="color" checked/>
+                                                <div class="checkboxdiv"></div>
+                                            </label>
+                                                <label class="colorSelection" for="c1">
+                                                <input type="checkbox" id="c1" name="color" checked/>
+                                                <div class="checkboxdiv"></div>
+                                            </label>
+                                                <label class="colorSelection" for="c2">
+                                                <input type="checkbox" id="c2" name="color" />
+                                                <div class="checkboxdiv"></div>
+                                            </label>
+
+
+
+
+                                            </div>
+                                            <input class="remark" type="text" placeholder="可輸入備註">
+
+                                        </form>
+                                    </div>
+                                    <img class="delete" src="./img/delete.svg">
+                                </div>
+                            </div>
+
+                            <div class="empty">
+                                <p>目前尚無詢價商品</p>
+                                <button>
+                            <span>前往熱門禮贈品</span>
+                            <img src="./img/arrow_broad.svg" alt="">
+                            </button>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="wrapContent spliceBorder">
+            <div class="contact series mediaFix">
+                <div class="container">
+
+                    <form class="content row gy-sm-4 gx-sm-5">
+                        <div class="col-12 col-lg-6 notice form">
+                            <label for="user" class="formName">您的名子</label>
+                            <input id="user" class="formContent">
+                        </div>
+
+                        <div class="col-12 col-lg-6 form">
+                            <label for="company" class="formName">公司名稱</label>
+                            <input id="company" class="formContent">
+                        </div>
+                        <div class="col-12 col-lg-6 form notice">
+                            <label for="phone" class="formName ">聯繫電話</label>
+                            <input id="phone" class="formContent">
+                        </div>
+                        <div class="col-12 col-lg-6 notice form">
+                            <label for="mail" class="formName">電子信箱</label>
+                            <input id="mail" class="formContent" type="email">
+                        </div>
+                        <div class="col-12  col-lg-6 form emptyForm">
+                            <label for="produceType" class="formName">產品分類</label>
+                            <div class="formSelect">
+                                <select id="produceType" class="formContent">
+                                    <option>手機3C</option>
+                                    <option>辦公文具</option>
+                                    <option>居家生活</option>
+                                    <option>精品配件</option>
+                                    <option>水瓶水杯</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-12  col-lg-6 notice form emptyForm">
+                            <label for="needType" class="formName">需求類型</label>
+                            <div class="formSelect">
+
+                                <select id="needType" class="formContent">
+                                    <option>企業贈品</option>
+                                    <option>婚禮小物</option>
+                                    <option>學生企劃</option>
+                                    <option>個人紀念</option>
+                                    <option>其他</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-12  col-lg-6 notice form emptyForm">
+                            <label for="range" class="formName">預算範圍</label>
+                            <div class="formSelect">
+                                <select id="range" class="formContent">
+                                    <option>NT$50以下</option>
+                                    <option>NT$50 - NT$100</option>
+                                    <option>NT$100 - NT$200</option>
+                                    <option>NT$200 - NT$300</option>
+                                    <option>NT$300 - NT$400</option>
+                                    <option>NT$400 - NT$500</option>
+                                    <option>NT$500以上</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-12  col-lg-6 form emptyForm">
+                            <label for="allRange" class="formName">總預算範圍</label>
+                            <div class="formSelect">
+                                <select id="allRange" class="formContent">
+                                    <option>NT$10000以下</option>
+                                    <option>NT$10000 - NT$30000</option>
+                                    <option>NT$50000 - NT$50000</option>
+                                    <option>NT$50000以上</option>
+                                </select>
+                            </div>
+                        </div>
+
+
+
+                        <div class="col-12 col-lg-6 form">
+                            <label for="needDate" class="formName">需求日期</label>
+                            <input id="needDate" type="date" class="formContent">
+                        </div>
+                        <div class="col-12  col-lg-6 notice form emptyForm">
+                            <label for="needAmount" class="formName">需求數量</label>
+                            <input id="needAmount" type="number" class="formContent">
+                        </div>
+                        <div class="col-12 form">
+                            <label for="needContent" class="formName">詢價內容</label>
+                            <input id="needContent" class="formContent">
+                        </div>
+                        <div class="col-12 form">
+                            <label for="uploadFile" class="formName">LOGO檔案</label>
+                            <div class="upload">
+                                <button class="uploadBtn">上傳附件</button>
+                                <span class="uploadText">請上傳JPG,PNG,AI檔</span>
+                                <input id="uploadFile" class="" type="file" id="formFile">
+                            </div>
+                        </div>
+                    </form>
+                    <div class="form footer ">
+
+                        <div class="buttonGroup">
+                            <button class="continueBtn">繼續挑選</button>
+                            <button class="sendBtn">
+                           <span>確認寄送詢價</span><img src="./img/footer_mail.svg" alt="">
+                        </button>
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class=" ">
+            <div class="footerSideBar">
+                <div class="footerTop mediaFix">
+                    <div class="container">
+                        <div class="row align-items-center">
+                            <div class="productBox col-12 col-lg-7 col-xl-8">
+                                <div class="itemTitle ">產品分類</div>
+                                <div class="itemContent row row-cols-3 row-sm-cols-4 row-cols-xl-5 row-cols-xxl-6 ">
+                                    <a class="col" href="" alt="">手機3C</a>
+                                    <a class="col" href="" alt="">辦公文具</a>
+                                    <a class="col" href="" alt="">居家生活</a>
+                                    <a class="col" href="" alt="">精品配件</a>
+                                    <a class="col" href="" alt="">精品配件</a>
+                                    <a class="col" href="" alt="">精品配件</a>
+                                    <a class="col" href="" alt="">精品配件</a>
+                                    <a class="col" href="" alt="">精品配件</a>
+                                    <a class="col" href="" alt="">精品配件</a>
+                                    <a class="col" href="" alt="">精品配件</a>
+                                    <a class="col" href="" alt="">精品配件</a>
+                                    <a class="col" href="" alt="">精品配件</a>
+                                </div>
+                            </div>
+                            <div class="messageBox col-12 col-lg-4 offset-lg-1 col-xl-3  offset-xl-1">
+
+                                <div class="line"><img src="./img/footer_line.svg" alt=""><span>@947atjvi</span></div>
+                                <div class="mail"><img src="./img/footer_mail.svg" alt=""><span>o09110407@gmail.com</span></div>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footerBottom">
+                    Copyright © 2023 歐禮品創藝國際有限公司 版權所有
+
+                    <div class="fb-share-button" data-href="https://www.facebook.com/opresent7" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.facebook.com%2Fopresent7&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">分享</a></div>
+                    <div id="fb-root"></div>
+                    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v15.0" nonce="QJS0Tulb"></script>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</body>
+
+</html>

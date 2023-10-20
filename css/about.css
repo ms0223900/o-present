@@ -1,0 +1,155 @@
+/* slogan */
+
+.slogan {
+    text-align: center;
+    padding: 60px 0 100px 0;
+    background: white;
+}
+
+.slogan,
+.department {
+    border-bottom: 8px solid var(--bgGrayLight);
+}
+
+.slogan .title,
+.department .ch,
+.company .ch {
+    font-size: 2rem;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.slogan .content {
+    margin-top: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+
+/* department */
+
+.department,
+.company {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.department .ch,
+.company .ch {
+    font-size: 1.5rem;
+    margin-bottom: 8px;
+}
+
+.department .en,
+.department .content .work,
+.company .en {
+    letter-spacing: 1px;
+    color: var(--textGrayLight);
+    margin-bottom: 20px;
+}
+
+.department .content .item {
+    text-align: center;
+}
+
+.department .content img {
+    padding: 20px;
+    background: var(--bgGrayLow);
+    display: inline-block;
+    background-size: cover;
+    width: 100%;
+}
+
+.department .content .name {
+    font-size: 1.5em;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin: 20px 0 8px 0;
+}
+
+.department .content .work {
+    margin-bottom: 60px;
+}
+
+
+/* company */
+
+.company .line {
+    padding: 0 0 16px 0;
+    border-bottom: 1px solid var(--borderGrayLow);
+    margin-bottom: 40px;
+}
+
+.company .line:last-child {
+    border-bottom: none;
+}
+
+.company .line>div {
+    display: inline-block;
+    font-size: 1.15rem;
+    letter-spacing: 1px;
+    line-height: 1.4;
+}
+
+.company .line>div:first-child {
+    font-weight: bold;
+    width: 14rem;
+}
+
+.company .line>div:last-child {
+    width: calc(100% - 14rem - 8px);
+    vertical-align: middle;
+}
+
+.company .content {
+    padding: 72px 40px 60px 40px;
+    background: var(--bgGrayLow);
+}
+
+
+/* 小於1200 */
+
+@media screen and (max-width: 1199px) {}
+
+
+/* 小於768 */
+
+@media screen and (max-width: 767px) {}
+
+
+/* 小於576 */
+
+@media screen and (max-width: 575px) {
+    .department,
+    .company {
+        padding: 50px 20px;
+    }
+    .slogan {
+        padding: 40px 40px 60px 40px;
+    }
+    .slogan .title {
+        font-size: 1.5rem;
+        line-height: 1.5;
+        text-wrap: balance;
+    }
+    .slogan .content {
+        font-size: 0.9rem;
+        margin-top: 8px;
+    }
+    .company .line>div:first-child,
+    .company .line>div:last-child {
+        width: 100%;
+    }
+    .company .line>div:last-child {
+        margin-top: 10px;
+    }
+    .company .content {
+        padding: 48px 40px 60px 40px;
+    }
+    .department .content .name {
+        font-size: 1.3rem;
+    }
+    .department .content .work {
+        margin-bottom: 20px;
+    }
+}

@@ -1,0 +1,47 @@
+.mainTitle {
+    align-items: center;
+}
+
+.mainTitle .title h3::after {
+    display: none;
+}
+
+
+/*  arcticle*/
+
+.arcticle .text {
+    -webkit-line-clamp: 2;
+}
+
+.mainContent .series .content {
+    padding-top: 20px;
+}
+
+.arcticle .item img,
+.arcticle .item.new img {
+    height: 240px;
+}
+
+.artcile img {
+    height: 560px;
+    object-fit: cover;
+    width: 100%;
+    border-radius: 12px;
+}
+
+
+/* hover */
+
+.styleBtn .btn:hover {
+    background: var(--blueColor);
+    color: white;
+}
+
+
+/* 小於575 */
+
+@media screen and (max-width: 575px) {
+    .mainContent .series .content {
+        padding-top: 0;
+    }
+}

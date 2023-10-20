@@ -1,0 +1,509 @@
+                                                           /* productInfo */
+                                                           
+                                                           .productInfo .photo {
+                                                               width: 360px;
+                                                               display: inline-block;
+                                                               vertical-align: top;
+                                                           }
+                                                           
+                                                           .mainPhoto img {
+                                                               width: 100%;
+                                                               border-radius: 4px;
+                                                           }
+                                                           
+                                                           .photo .seriesPhoto {
+                                                               display: inline-block;
+                                                               overflow: auto;
+                                                               white-space: nowrap;
+                                                               margin-top: 10px;
+                                                           }
+                                                           
+                                                           .seriesPhoto img {
+                                                               display: inline-block;
+                                                               width: calc(100% / 5);
+                                                               margin-right: 6px;
+                                                               border-radius: 4px;
+                                                               border: 1px solid var(--borderGrayLight);
+                                                           }
+                                                           
+                                                           .productInfo .info {
+                                                               width: calc(100% - 386px);
+                                                               display: inline-block;
+                                                               margin-left: 20px;
+                                                           }
+                                                           
+                                                           .seriesPhoto img.act {
+                                                               opacity: 0.4;
+                                                           }
+                                                           
+                                                           .info h3 {
+                                                               font-size: 2rem;
+                                                               letter-spacing: 3px;
+                                                               font-weight: bold;
+                                                               margin-bottom: 4px;
+                                                           }
+                                                           
+                                                           .info .number {
+                                                               color: var(--textGrayLight);
+                                                               margin-bottom: 12px;
+                                                           }
+                                                           
+                                                           .info .price {
+                                                               letter-spacing: 2px;
+                                                               font-size: 2rem;
+                                                               color: var(--mainColor);
+                                                               font-weight: bold;
+                                                               margin-bottom: 8px;
+                                                           }
+                                                           
+                                                           .info .MOQ,
+                                                           .info .stock,
+                                                           .info .custom {
+                                                               display: inline-block;
+                                                           }
+                                                           
+                                                           .info .MOQ {
+                                                               letter-spacing: 1px;
+                                                               margin: 0 8px 20px 0;
+                                                           }
+                                                           
+                                                           .info .stock span:last-child,
+                                                           .info .custom span:last-child {
+                                                               color: var(--redColor);
+                                                               font-weight: bold;
+                                                           }
+                                                           
+                                                           .customRadio {
+                                                               margin: 20px 0 20px 12px;
+                                                           }
+                                                           
+                                                           .customRadio label {
+                                                               font-weight: bold;
+                                                               position: relative;
+                                                           }
+                                                           
+                                                           .customRadio input {
+                                                               visibility: hidden;
+                                                               /* 把原本的input藏起來 */
+                                                           }
+                                                           
+                                                           .radio-button {
+                                                               /* 自定義樣式的span */
+                                                               width: 20px;
+                                                               height: 20px;
+                                                               background: var(--inputBg);
+                                                               border-radius: 50%;
+                                                               display: inline-block;
+                                                               position: absolute;
+                                                               left: -28px;
+                                                               top: -2px;
+                                                           }
+                                                           
+                                                           .radio-button::after {
+                                                               /* 中間點點 */
+                                                               content: "";
+                                                               display: inline-block;
+                                                               height: 12px;
+                                                               width: 12px;
+                                                               border-radius: 50%;
+                                                               position: absolute;
+                                                               top: 50%;
+                                                               left: 50%;
+                                                               transform: translate(-50%, -50%);
+                                                               background-color: var(--blueColor);
+                                                               opacity: 0;
+                                                               transition: opacity 0.2s;
+                                                           }
+                                                           
+                                                           .radio-group {
+                                                               display: inline-block;
+                                                           }
+                                                           
+                                                           .radio-group+.radio-group {
+                                                               margin-left: 40px;
+                                                           }
+                                                           
+                                                           .radio-input:checked~.radio-label .radio-button::after {
+                                                               /* 選中radio時 才顯示中間點點 */
+                                                               opacity: 1;
+                                                           }
+                                                           
+                                                           .productQuantity button {
+                                                               border: unset;
+                                                               padding: 13px 12px;
+                                                               line-height: 21px;
+                                                               text-align: center;
+                                                               vertical-align: middle;
+                                                           }
+                                                           
+                                                           .productQuantity input {
+                                                               border-radius: 0;
+                                                               text-align: center;
+                                                               width: 8rem;
+                                                               margin: 0 -3px 0 -2px;
+                                                               vertical-align: middle;
+                                                           }
+                                                           
+                                                           .qtyminus {
+                                                               border-radius: 12px 0 0 12px;
+                                                           }
+                                                           
+                                                           .quantity {
+                                                               border-radius: 0 12px 12px 0;
+                                                           }
+                                                           
+                                                           .productQuantity label,
+                                                           .productColor label:first-child {
+                                                               margin-right: 20px;
+                                                           }
+                                                           
+                                                           .productQuantity,
+                                                           .productColor,
+                                                           .productTag {
+                                                               margin-bottom: 20px;
+                                                           }
+                                                           /* productColor */
+                                                           
+                                                           .colorSelection input {
+                                                               display: none;
+                                                           }
+                                                           
+                                                           .colorSelection {
+                                                               width: 20px;
+                                                               height: 20px;
+                                                               display: inline-block;
+                                                               background: #F1E6E4;
+                                                               border-radius: 50%;
+                                                               position: relative;
+                                                               vertical-align: text-top;
+                                                               cursor: pointer;
+                                                           }
+                                                           
+                                                           .colorSelection input:checked~.checkboxdiv {
+                                                               display: inline-block;
+                                                               width: 24px;
+                                                               height: 24px;
+                                                               background: url(../img/tick.svg) no-repeat;
+                                                               top: -2px;
+                                                               left: 0;
+                                                               position: absolute;
+                                                           }
+                                                           
+                                                           .productColor label {
+                                                               margin-right: 8px;
+                                                           }
+                                                           
+                                                           .productTag a {
+                                                               display: inline-block;
+                                                               padding: 4px 8px;
+                                                               background: var(--inputBg);
+                                                               border-radius: 4px;
+                                                               color: var(--textGrayLight);
+                                                               margin: 0 4px 8px 0;
+                                                           }
+                                                           
+                                                           .goShop,
+                                                           .tool,
+                                                           .finishedProduct {
+                                                               display: inline-block;
+                                                               font-size: 1.25rem;
+                                                               color: white;
+                                                               padding: 8px 20px;
+                                                               line-height: 30px;
+                                                               border: unset;
+                                                               border-radius: 50px;
+                                                               font-weight: bold;
+                                                               margin: 0 12px 12px 0;
+                                                           }
+                                                           
+                                                           .goShop {
+                                                               background: var(--mainColor);
+                                                           }
+                                                           
+                                                           .tool {
+                                                               background: var(--textDark);
+                                                           }
+                                                           
+                                                           .finishedProduct {
+                                                               background: var(--blueColor);
+                                                           }
+                                                           
+                                                           .mainContent.product {
+                                                               display: block;
+                                                           }
+                                                           
+                                                           .product>div>.title {
+                                                               margin-top: 40px;
+                                                               position: relative;
+                                                           }
+                                                           
+                                                           .product>div>.title::after {
+                                                               content: '';
+                                                               display: inline-block;
+                                                               width: calc(100% - 9rem);
+                                                               height: 1px;
+                                                               background: var(--inputBg);
+                                                               position: absolute;
+                                                               right: 0;
+                                                               top: 20px;
+                                                           }
+                                                           
+                                                           .product>div>.title span {
+                                                               display: block;
+                                                           }
+                                                           
+                                                           .product>div>.title .ch {
+                                                               color: var(--textDark);
+                                                               font-size: 1.5rem;
+                                                               font-weight: bold;
+                                                               margin-bottom: 4px;
+                                                               letter-spacing: 1px;
+                                                           }
+                                                           
+                                                           .product>div>.title .en {
+                                                               color: var(--blueColor);
+                                                               letter-spacing: 1px;
+                                                           }
+                                                           
+                                                           .productIntroduce div .title {
+                                                               font-size: 1.25rem;
+                                                               letter-spacing: 1px;
+                                                               font-weight: bold;
+                                                               margin-top: 40px;
+                                                           }
+                                                           
+                                                           .productIntroduce div .title::before {
+                                                               content: '';
+                                                               display: inline-block;
+                                                               background: url(../img/product_format.svg) no-repeat;
+                                                               width: 30px;
+                                                               height: 30px;
+                                                               margin-right: 8px;
+                                                               vertical-align: text-bottom;
+                                                               background-size: cover;
+                                                           }
+                                                           
+                                                           .productIntroduce .feature .title::before {
+                                                               background: url(../img/product_feature.svg) no-repeat;
+                                                           }
+                                                           
+                                                           .productIntroduce .notice .title::before {
+                                                               background: url(../img/product_notice.svg) no-repeat;
+                                                           }
+                                                           
+                                                           .format .formatInfo {
+                                                               padding: 12px 0 0 40px;
+                                                               line-height: 28px;
+                                                           }
+                                                           
+                                                           .productIntroduce .describe {
+                                                               margin: 12px 0 0 40px;
+                                                               line-height: 1.8;
+                                                           }
+                                                           
+                                                           .other {
+                                                               margin-bottom: 60px;
+                                                           }
+                                                           /*photoBox */
+                                                           
+                                                           .photoBox {
+                                                               position: fixed;
+                                                               background: rgba(0, 0, 0, 0.7);
+                                                               z-index: 3;
+                                                               top: 0;
+                                                               display: inline-block;
+                                                               width: 100%;
+                                                               height: 100%;
+                                                           }
+                                                           
+                                                           .photoBox .mainPhoto {
+                                                               width: 560px;
+                                                               height: 560px;
+                                                               display: inline-block;
+                                                               margin-right: 4px;
+                                                           }
+                                                           
+                                                           .box {
+                                                               vertical-align: middle;
+                                                               width: 100%;
+                                                               height: 100%;
+                                                               display: flex;
+                                                               justify-content: center;
+                                                           }
+                                                           
+                                                           .boxContent {
+                                                               width: 720px;
+                                                               height: 560px;
+                                                               display: inline-block;
+                                                               text-align: center;
+                                                               align-self: center;
+                                                               position: relative;
+                                                           }
+                                                           
+                                                           .photoBox .seriesPhoto img {
+                                                               width: 100px;
+                                                               border: unset;
+                                                               margin-right: 0;
+                                                           }
+                                                           
+                                                           .photoBox .seriesPhoto img+img {
+                                                               margin-top: 16px;
+                                                           }
+                                                           
+                                                           .photoBox .seriesPhoto {
+                                                               display: inline-block;
+                                                               margin-top: 0;
+                                                               overflow-y: auto;
+                                                               overflow-x: hidden;
+                                                               width: 116px;
+                                                               white-space: unset;
+                                                               vertical-align: middle;
+                                                               height: 560px;
+                                                           }
+                                                           
+                                                           .photoBox .close {
+                                                               top: -50px;
+                                                               right: -20px;
+                                                               position: absolute;
+                                                               text-align: center;
+                                                               padding: 0;
+                                                           }
+                                                           
+                                                           .photoBox .close img {
+                                                               padding: 8px;
+                                                               background: white;
+                                                               right: 20px;
+                                                               border-radius: 50%;
+                                                           }
+                                                           
+                                                           .seriesPhoto::-webkit-scrollbar {
+                                                               width: 4px;
+                                                               position: absolute;
+                                                           }
+                                                           
+                                                           .seriesPhoto::-webkit-scrollbar-track {
+                                                               background-color: var(--inputBg);
+                                                           }
+                                                           
+                                                           .seriesPhoto::-webkit-scrollbar-thumb {
+                                                               background-color: var(--mainColor);
+                                                           }
+                                                           
+                                                           .productInfo .seriesPhoto::-webkit-scrollbar,
+                                                           .photoBox .seriesPhoto::-webkit-scrollbar {
+                                                               height: 4px;
+                                                           }
+                                                           
+                                                           .productInfo .seriesPhoto {
+                                                               padding-bottom: 4px;
+                                                           }
+                                                           /* orderProcesss */
+                                                           
+                                                           .orderProcesss img {
+                                                               display: inline-block;
+                                                               width: 100%;
+                                                               margin-top: 20px;
+                                                           }
+                                                           /* hover */
+                                                           
+                                                           .itemTable .title:hover,
+                                                           .itemTable .content li:hover span {
+                                                               color: var(--redColor);
+                                                           }
+                                                           
+                                                           .radio-group:hover>*,
+                                                           .photoBox .seriesPhoto img {
+                                                               cursor: pointer;
+                                                           }
+                                                           
+                                                           main button:hover,
+                                                           .photoBox .close:hover {
+                                                               opacity: 0.6;
+                                                               transition: 0.3s;
+                                                           }
+                                                           
+                                                           .productTag a:hover {
+                                                               background: var(--blueColor);
+                                                               color: white;
+                                                           }
+                                                           
+                                                           .photoBox .seriesPhoto img.act {
+                                                               border: 4px solid var(--blueColor);
+                                                               opacity: 1;
+                                                           }
+                                                           /* 小於1200 */
+                                                           
+                                                           @media screen and (max-width: 1199px) {
+                                                               .productInfo .photo {
+                                                                   width: 240px;
+                                                               }
+                                                               .productInfo .info {
+                                                                   width: calc(100% - 266px);
+                                                               }
+                                                               .seriesPhoto img {
+                                                                   width: calc(100% / 4);
+                                                               }
+                                                           }
+                                                           /* 小於992px */
+                                                           
+                                                           @media screen and (max-width: 992px) {
+                                                               .photoBox .mainPhoto,
+                                                               .photoBox .seriesPhoto,
+                                                               .boxContent {
+                                                                   height: 420px;
+                                                               }
+                                                               .photoBox .mainPhoto {
+                                                                   width: 420px;
+                                                               }
+                                                               .boxContent {
+                                                                   width: 570px;
+                                                               }
+                                                           }
+                                                           /* 小於768 */
+                                                           
+                                                           @media screen and (max-width: 767px) {
+                                                               .productInfo .photo {
+                                                                   width: 300px;
+                                                               }
+                                                               .productInfo .info {
+                                                                   width: calc(100% - 326px);
+                                                               }
+                                                           }
+                                                           /* 小於575 */
+                                                           
+                                                           @media screen and (max-width: 575px) {
+                                                               .productInfo .photo,
+                                                               .productInfo .info {
+                                                                   width: 100%;
+                                                               }
+                                                               .info h3 {
+                                                                   margin-top: 40px;
+                                                               }
+                                                               .photoBox .seriesPhoto,
+                                                               .photoBox .mainPhoto {
+                                                                   width: 100%;
+                                                               }
+                                                               .boxContent {
+                                                                   height: auto;
+                                                                   width: 84%;
+                                                               }
+                                                               .photoBox .seriesPhoto {
+                                                                   height: 130px;
+                                                                   overflow-y: hidden;
+                                                                   overflow-x: auto;
+                                                                   white-space: nowrap;
+                                                               }
+                                                               .photoBox .seriesPhoto img {
+                                                                   margin-top: 16px;
+                                                               }
+                                                               .photoBox .close {
+                                                                   top: -20px;
+                                                                   right: -20px;
+                                                               }
+                                                               .photoBox .mainPhoto {
+                                                                   height: auto;
+                                                               }
+                                                               .photoBox .seriesPhoto img {
+                                                                   margin-right: 8px;
+                                                               }
+                                                           }

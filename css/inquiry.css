@@ -1,0 +1,312 @@
+/* main  */
+
+.mainContent {
+    padding: 40px 80px 40px 80px;
+}
+
+
+/* car */
+
+.carList,
+.info,
+.carItem .remark {
+    width: 100%;
+}
+
+.carItem {
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0px 3px 6px #00000029;
+}
+
+.carListContent {
+    background: var(--inputBg);
+}
+
+.carItem+.carItem {
+    margin-top: 20px;
+}
+
+.carItem .title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    padding: 14px 20px 12px 20px;
+    border-bottom: 1px solid var(--inputBg);
+}
+
+.carItem .photo {
+    padding: 20px;
+    width: 20%;
+    height: 20%;
+}
+
+.carItem .content {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.carItem .delete {
+    padding: 40px;
+}
+
+.carItem .info {
+    padding: 20px 20px 20px 0;
+}
+
+.carList .empty {
+    text-align: center;
+}
+
+.carList .empty p {
+    font-size: 1.75rem;
+    margin-bottom: 20px;
+}
+
+.carList .empty span {
+    font-size: 1.5rem;
+}
+
+.carList .empty button {
+    background: var(--blueColor);
+    width: auto;
+    border-radius: 50px;
+    color: white;
+    padding: 20px 40px;
+    font-weight: bold;
+    border: unset;
+}
+
+.carList .empty img {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+}
+
+.customRadio,
+.productQuantity,
+.productColor,
+.buttonGroup {
+    display: inline-block;
+}
+
+.productColor label,
+.productQuantity label {
+    font-weight: bold;
+}
+
+.contact,
+.contact .footer {
+    margin-top: 60px;
+}
+
+.footer button {
+    color: white;
+    border-radius: 12px;
+    padding: 16px 28px;
+    border-width: 0;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 1.3rem;
+    vertical-align: middle;
+}
+
+.contactBtn {
+    background: var(--textDark);
+}
+
+.footer .continueBtn {
+    background: white;
+    color: var(--blueColor);
+    border: 1px solid var(--blueColor);
+    margin-right: 20px;
+    line-height: 34px;
+}
+
+.sendBtn {
+    background: var(--blueColor);
+}
+
+.footer {
+    text-align: right;
+    margin-bottom: 100px;
+}
+
+.buttonGroup,
+.productColor {
+    vertical-align: middle;
+}
+
+.productQuantity,
+.productQuantity button,
+.productQuantity input,
+.carList .empty button>* {
+    vertical-align: middle;
+}
+
+.productColor label:not(:first-child) {
+    margin-bottom: 8px;
+}
+
+
+/* hover */
+
+.continueBtn:hover,
+.contactBtn:hover,
+.delete:hover {
+    opacity: 0.6;
+    transition: 0.3s;
+}
+
+.delete:hover {
+    cursor: pointer;
+}
+
+.productQuantity {
+    margin-right: 40px;
+}
+
+.customRadio {
+    width: 100%;
+}
+
+
+/* 小於1200 */
+
+@media screen and (max-width: 1199px) {
+    .productQuantity label {
+        margin-left: 0;
+    }
+    .mainContent {
+        padding: 40px;
+    }
+    .carItem .photo {
+        width: 24%;
+        height: 24%;
+    }
+}
+
+
+/* 小於992 */
+
+@media screen and (max-width: 991px) {
+    .carItem .photo {
+        width: 30%;
+        height: 30%;
+    }
+    .customRadio {
+        margin: 16px 0 0px 12px;
+    }
+    .productColor {
+        margin-top: 16px;
+        margin-bottom: 12px;
+    }
+    .productColor label:first-child {
+        margin-left: 0;
+    }
+    .productQuantity {
+        margin: 16px 0 0px 0;
+    }
+}
+
+
+/* 小於768 */
+
+@media screen and (max-width: 767px) {
+    .carItem .photo {
+        width: 25%;
+        height: 25%;
+    }
+    .mainContent {
+        padding: 20px 0px;
+    }
+    .productQuantity input {
+        width: 6rem;
+    }
+    .carItem .delete {
+        padding: 24px;
+    }
+    .carItem .info {
+        margin-top: 0;
+    }
+    .form.footer {
+        flex-wrap: wrap;
+    }
+    .footer .contactBtn,
+    .buttonGroup {
+        width: 100%;
+    }
+    .info {
+        font-size: 0.9rem;
+    }
+    .carItem .photo {
+        padding: 16px;
+    }
+    .carItem .info {
+        padding: 8px 8px 16px 0;
+    }
+    .productQuantity label,
+    .productColor label:first-child {
+        display: none;
+    }
+    .productQuantity,
+    .productColor,
+    .productTag {
+        margin-bottom: 0;
+    }
+    .productQuantity {
+        margin: 16px 16px 0px 0;
+    }
+    .remark {
+        margin-top: 16px;
+    }
+}
+
+
+/* 小於575 */
+
+@media screen and (max-width: 575px) {
+    .footer .continueBtn {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    .contact .footer {
+        margin-top: 40px;
+    }
+}
+
+
+/* 小於495 */
+
+@media screen and (max-width: 491px) {
+    .productQuantity {
+        margin-right: 0;
+        margin-bottom: 0;
+    }
+}
+
+
+/* 小於391 */
+
+@media screen and (max-width: 390px) {
+    .carItem .delete {
+        padding: 12px;
+    }
+    .carItem .photo {
+        padding: 12px;
+    }
+}
+
+.empty {
+    display: none;
+}
+
+
+/* .carItem {
+    display: none;
+} */
+
+.emptyForm {
+    color: red;
+}
